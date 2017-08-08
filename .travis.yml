@@ -1,15 +1,11 @@
 language: node_js
 node_js: 7
-
 cache:
   yarn: true
   directories:
   - node_modules
   - bower_components
   - "${NVM_PATH}_modules"
-
-env:
-- CXX=g++-4.8
 
 addons:
   apt:
@@ -21,7 +17,9 @@ addons:
 install:
 - yarn
 
-script: echo "Deploying!"
+script:
+- jq '.' data/export-data-firebase.json > /dev/null
+- echo "Deploying!"
 
 before_deploy: yarn build
 
@@ -33,3 +31,13 @@ deploy:
   project: devfesttoulouse-c76d7
   token:
     secure: VWMn8k5GSc7JyHVYN/tcYSf5iRgYCmPd916vFjzHY9/WEEO67/qLzBeqnPDYSYp5Zc/JuOx2eI+Y8i+RjVth+jN8hrGNk0AvDqS44XEw7Tz77z/uCItzQxjXppztDTxD9+mgmSlfdWBrrJgNPEAoyciZRqRx59vm4XKXjz7E5SLumz8SqBYT3DvzpoSvp27Cyf+xhtfGGID9U6OI/EcIlHF3Rj2WjLmh93dh3E2o0Ff/njr7Hi8nBIZUCvsl8zc8uldAVDJoqB/XDX19dx9MFR4qQMUUEwJwPgLCEEFAdvlNvHU41+iWFJUh0Vg//Wrc/JbvFOuNntOc0e8q6qCELPcuxsJkDMEUDYbe2RkR3jmOrLx+yG4de3f+vAIugUesU7hOYZpVmrOiDdpRIsPb7F5LJmgxiY7Koe145N0kv5lSt7zUjgblIUgGQ8Yn6Zi1YwiwwWbyd7xis89KKpdqTnwJgShV8i56inZX054p7Er+Uy0SkSEX4qhsVE2U3MQvn+CdWfqmCNg6wjQs0oy0worcgP1D7D2zVEAytoZJCIQljhIg9G7v3LCWMQF0WIhR1B3dXeH3DOOQTflh8WCb3AQYWq12bfNPGMzPywzo8MixAhCDlf6iEbPjehyxEO4tk5Q/vH9FJ/EZ5TagTPdiGWPUM5EMGz7L3jIpedSeXQk
+
+after_deploy:
+- echo "Deploying Database"
+- cat data/export-data-firebase.json | firebase database:set -y /
+
+env:
+  matrix:
+  - CXX=g++-4.8
+  global:
+    secure: oXJEslR9rAbKX0ao/lDy0OsF0uM6y+XSZa5rl8NexT42HTtJ25fJqATQC25jqaFWE5wbFB2Wx/jvnIvKdfM4ureMBNKqoC1g2x4MIGUzvGP7/MUWUaW6lIU8kfvYNrve9mCNSleXL2NwXpbBeVnHClfIcZGz6raECw+VZNmNAVa/akdN3WEM8VU9eGm5fZHFa9DUpWh1rxrx6+wO/pFQ6kn/JlEaAX370Xp6kEb0IDwvn5SgXg0l8eE54ZLOSXIHcn1UCb3aC4Xo6S51HFLYhOKXPs1lekM3uhbFz5GJQTTw8yrIzG+ee8JtDmCwKP+jPH+1yIdHb2rL06SmCgGPWr1c0HDxBJ6NuKOxX2Dutx5igFfR+xZMYPoGgXEwAa6kVMa2FIGpSpOJn/+YvdmdXqa+uhzaXK0/+6QwJleTKz+p612oWK/e4PdLYSTIvYpbGba82g/hSTki6fdCkqIP9HuvHwovKGy6tZG+f3RSHEkJ1sywOp9IWnPx7jMTnQl+Pbi3fklNV5DKpcAYriFFuyN2CoXyRkqePCBRk81GnSlZQbqZNo+7OylBXeYN6JO4VFJqxPcsQ/eGz79wyIt5qyaUKQewEDT6HWvpRNqWnp6Fo+l10QZm97IIAN9ysvlHT0Qt5E03VLi/CVef5ksD5kexXXifg7k7hKKta2NeQBM=
