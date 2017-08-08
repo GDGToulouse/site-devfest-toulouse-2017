@@ -21,7 +21,9 @@ addons:
 install:
 - yarn
 
-script: echo "Deploying!"
+script:
+- jq '.' data/export-data-firebase.json > /dev/null
+- echo "Deploying!"
 
 before_deploy: yarn build
 
@@ -33,3 +35,8 @@ deploy:
   project: devfesttoulouse-c76d7
   token:
     secure: VWMn8k5GSc7JyHVYN/tcYSf5iRgYCmPd916vFjzHY9/WEEO67/qLzBeqnPDYSYp5Zc/JuOx2eI+Y8i+RjVth+jN8hrGNk0AvDqS44XEw7Tz77z/uCItzQxjXppztDTxD9+mgmSlfdWBrrJgNPEAoyciZRqRx59vm4XKXjz7E5SLumz8SqBYT3DvzpoSvp27Cyf+xhtfGGID9U6OI/EcIlHF3Rj2WjLmh93dh3E2o0Ff/njr7Hi8nBIZUCvsl8zc8uldAVDJoqB/XDX19dx9MFR4qQMUUEwJwPgLCEEFAdvlNvHU41+iWFJUh0Vg//Wrc/JbvFOuNntOc0e8q6qCELPcuxsJkDMEUDYbe2RkR3jmOrLx+yG4de3f+vAIugUesU7hOYZpVmrOiDdpRIsPb7F5LJmgxiY7Koe145N0kv5lSt7zUjgblIUgGQ8Yn6Zi1YwiwwWbyd7xis89KKpdqTnwJgShV8i56inZX054p7Er+Uy0SkSEX4qhsVE2U3MQvn+CdWfqmCNg6wjQs0oy0worcgP1D7D2zVEAytoZJCIQljhIg9G7v3LCWMQF0WIhR1B3dXeH3DOOQTflh8WCb3AQYWq12bfNPGMzPywzo8MixAhCDlf6iEbPjehyxEO4tk5Q/vH9FJ/EZ5TagTPdiGWPUM5EMGz7L3jIpedSeXQk
+
+after_deploy:
+- echo "Deploying Database"
+- firebase login
+- cat data/export-data-firebase.json | firebase database:set -y /
