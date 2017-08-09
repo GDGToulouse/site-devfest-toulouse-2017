@@ -77,6 +77,10 @@
       "logoUrl" : "../images/partners/pros-logo.svg",
       "name" : "Pros",
       "url" : "http://www.pros.com"
+    }, {
+      "logoUrl" : "../images/partners/lyra.png",
+      "name" : "Lyra Network",
+      "url" : "http://www.lyra-network.com"
     } ],
     "title" : "Argent"
   }, {
