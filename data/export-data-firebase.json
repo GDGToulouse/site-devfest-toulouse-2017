@@ -1426,7 +1426,7 @@
       "ends" : "21 Septembre",
       "name" : "Normal",
       "price" : 50,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "14 Juin"
     } ],
     "url" : "http://bit.ly/devfesttoulouse-2017-billetterie"
