@@ -1,6 +1,6 @@
 A l'issue de deux très longues soirées du mois de Juillet, nous avons effectué notre sélection complète des talks du DevFest Toulouse 2017.
 
-Le moins que l'on puisse dire, c'est que cela fut très compliqué, car nous avons eu beaucoup de talks proposés et du contenu de très haute qualité !.
+Le moins que l'on puisse dire, c'est que cela fut très compliqué, car nous avons eu beaucoup de talks proposés et du contenu de très haute qualité !
 
 <img src="/images/posts/2017-08-14-annonce-selection-complete/deliberations_01.jpg" alt="deliberations_01" width="350" />
 
@@ -14,13 +14,23 @@ Il a été très compliqué de départager, sélectionner et écarter certains t
 
 À tous ceux qui n'ont pas été retenu, nous espérons vous revoir l'année prochaine, voir même avant dans les différents meetups Toulousain.
 
+# Quelques statistiques
+
 <img src="/images/posts/2017-08-14-annonce-selection-complete/propositions.png" alt="proposition" width="500" />
 
-# Et les sélectionnés sont ...?
+Comme le montre la capture ci-dessus, nous avons reçu 156 propositions soumises par 156 speakers/speakeuses et il reste 14 brouillons de sujets, ce qui aurait pu augmenter ce nombre de sujets proposés. La qualité était au rendez-vous et nous tenons à le dire et à le redire.
+
+Quelques stats :
+
+<img src="/images/posts/2017-08-14-annonce-selection-complete/talks_par_track.png" alt="talks par catégorie" width="500" />
+
+<img src="/images/posts/2017-08-14-annonce-selection-complete/pie_types_talk.png" alt="nb talks par type" width="500" />
+
+# Et les sélectionné.e.s sont ...?
 
 Nous avons publié la liste des speakers sur le site. Vous pouvez les retrouver dans la [section du site qui leur est dédiée](speakers).
 
-Il seront cette années 45 à venir animer les 4 streams de conférences du DevFest Toulouse 👍 !
+Il seront cette année 45 à venir, animer les 4 tracks de conférences du DevFest Toulouse 👍 !
 
 Voici la liste tant attendu :
 
@@ -64,6 +74,6 @@ Voici la liste tant attendu :
 
 # Et le programme ?
 
-Il est compliqué de prendre en compte les contraintes de tous les speakers. Nous allons bientôt rendre accessible une première version du programme qui suscite tant d'intérêt
+Il est compliqué de prendre en compte les contraintes de tous les speakers. Nous allons bientôt rendre accessible une première version du programme qui suscite tant d'intérêt. Ce que nous pouvons vous dire c'est qu'il y aura 28 conférences standard et 8 quickies ainsi qu'une keynote d'ouverture qui nous l'espérons, vous plairas.
 
-Merci une nouvelle fois à tous. C'est grace à vous que le DevFest Toulouse existe !
+Merci une nouvelle fois à toutes et à tous. C'est grâce à vous que le DevFest Toulouse existe !
