@@ -74,6 +74,6 @@ Voici la liste tant attendu :
 
 # Et le programme ?
 
-Il est compliqué de prendre en compte les contraintes de tous les speakers. Nous allons bientôt rendre accessible une première version du programme qui suscite tant d'intérêt. Ce que nous pouvons vous dire c'est qu'il y aura 28 conférences standard et 8 quickies ainsi qu'une keynote d'ouverture qui nous l'espérons, vous plairas.
+Il est compliqué de prendre en compte les contraintes de tous les speakers. Nous allons bientôt rendre accessible une première version du programme qui suscite tant d'intérêt. Ce que nous pouvons vous dire c'est qu'il y aura 28 conférences standard et 8 quickies ainsi qu'une keynote d'ouverture qui nous l'espérons, vous plaira.
 
 Merci une nouvelle fois à toutes et à tous. C'est grâce à vous que le DevFest Toulouse existe !
