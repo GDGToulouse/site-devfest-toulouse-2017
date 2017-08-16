@@ -38,4 +38,12 @@
     "secondaryColor": "#455a64",
     "image": "/images/posts/annonce.jpg",
     "brief": "Des heures de délibération acharnée sur fonds de petits fours."
+} , {
+    "id": "annonce-selection-complete",
+    "title": "Liste complète des talks sélectionnés",
+    "posted": "2017-08-14",
+    "primaryColor": "#5a7785",
+    "secondaryColor": "#455a64",
+    "image": "/images/posts/2017-08-14-annonce-selection-complete/deliberations_02.jpg",
+    "brief": "Des heures de délibération acharnée sur fonds de petits fours."
 }]
