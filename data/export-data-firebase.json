@@ -1140,7 +1140,7 @@
       "name" : "GitHub"
     } ],
     "tags" : [ "Web" ]
-  }, null, {
+  }, {
     "bio" : "# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
     "company" : "Viseo",
     "featured" : false,
