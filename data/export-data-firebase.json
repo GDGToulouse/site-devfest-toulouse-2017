@@ -100,9 +100,9 @@
       "url" : "https://taleez.com/r/#/app/home",
       "width" : 70
     }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "Vous ?",
-      "url" : "https://goo.gl/qk3sCZ",
+      "logoUrl" : "../images/partners/cnes.jpg",
+      "name" : "CNES",
+      "url" : "https://cnes.fr/fr",
       "width" : 70
     } ],
     "title" : "Soutien"
