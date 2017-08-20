@@ -236,7 +236,100 @@
       "title":"Communautés soutien"
     }
   ],
+  "schedule":[
+    {
+      "date":"2017-09-28",
+      "dateReadable":"28 Septembre",
+      "timeslots":[
+        {
+          "startTime":"08:00",
+          "endTime":"09:00",
+          "sessions":[[100]]
+        },
+        {
+          "startTime":"09:00",
+          "endTime":"09:45",
+          "sessions":[[0], [101]]
+        },
+        {
+          "startTime":"09:55",
+          "endTime":"10:40",
+          "sessions":[[0], [0], [2164], [1802], [1706], [1756]]
+        },
+        {
+          "startTime":"11:00",
+          "endTime":"11:45",
+          "sessions":[[0], [0], [1798], [1888], [2081], [2160]]
+        },
+        {
+          "startTime":"11:55",
+          "endTime":"12:40",
+          "sessions":[[0], [0], [2123], [1897], [1879], [1803]]
+        },
+        {
+          "startTime":"14:10",
+          "endTime":"14:55",
+          "sessions":[[0], [0], [1712], [1610], [2166], [1732]]
+        },
+        {
+          "startTime":"15:05",
+          "endTime":"15:50",
+          "sessions":[[0], [0], [1560], [1838], [1590], [1697]]
+        },
+        {
+          "startTime":"16:10",
+          "endTime":"16:55",
+          "sessions":[[0], [0], [1794], [1626], [1574], [1638]]
+        },
+        {
+          "startTime":"17:05",
+          "endTime":"17:50",
+          "sessions":[[0], [0], [1556], [2137], [1743], [1671]]
+        },
+        {
+          "startTime":"17:50",
+          "endTime":"18:15",
+          "sessions":[[0], [2158]]
+        }
+      ],
+      "tracks":[
+        {
+          "title":"Hall"
+        },
+        {
+          "title":"Salle 1"
+        },
+        {
+          "title":"Salle 2"
+        },
+        {
+          "title":"Salle 3"
+        },
+        {
+          "title":"Salle 4"
+        },
+        {
+          "title":"Salle 5"
+        }
+      ]
+    }
+  ],
   "sessions":{
+    "100": {
+      "title":"Accueil et petit-déjeuner",
+      "description":"Accueil et petit-déjeuner",
+      "id":100,
+      "tags": ["General"]
+    },
+    "101": {
+      "title":"Le développeur Full Stack est mort, Vive le développeur universel",
+      "description":"Le développeur Full Stack est mort, Vive le développeur universel",
+      "id":101,
+      "tags": ["General"],
+      "speakers":[
+        1
+      ]
+    },
     "1556":{
       "complexity":"Débutant",
       "description":"Non, le CSS c'est pas du coloriage !\n\nLa puissance du CSS est souvent sous-estimée, cette session de Live-Coding sera l'occasion de montrer quantité de trucs et astuces utiles quotidiennement pour les développeurs web.\n\nAujourd'hui on entre dans l'ère post-IE et on peut utiliser beaucoup plus sereinement la puissance que nous offre le CSS; pourquoi passer à coté !\n\nEn mode 'no-javascript' venez découvrir des solutions pour faire des : collapsibles panels, accordions, popovers, modals, tabs, ...",
@@ -285,7 +378,7 @@
         2
       ],
       "tags":[
-        "WTF et autres"
+        "WTF"
       ],
       "title":"Quand Internet sera gouvernée par les |chats> de Shrödinger"
     },
@@ -298,7 +391,7 @@
         2357
       ],
       "tags":[
-        "WTF et autres"
+        "WTF"
       ],
       "title":"Des portes logiques pneumatiques en bois"
     },
@@ -683,7 +776,7 @@
         2
       ],
       "tags":[
-        "WTF et autres"
+        "WTF"
       ],
       "title":"Apéro fonctionnel"
     },
@@ -729,6 +822,20 @@
     }
   },
   "speakers":[
+    {
+      "bio":"Quand des développeurs rencontrent un dessinateur, ça donne un blog de dessins, d’anecdotes et d’actus vu par les codeurs ! Les développeurs, on le sait, aiment beaucoup lire les blogs de dessins :). Ça parle des codeurs, de leur quotidien, des gens qui bossent avec nous, des clients, des technos , des chats et des news aussi",
+      "company":"CommitStrip, KRDS, Oh my Bot!",
+      "country":"France",
+      "featured":false,
+      "id":1,
+      "name":"Thomas Gx",
+      "photoUrl":"/images/speakers/thomas-gx.jpg",
+      "shortBio":"Entrepreneur dans l'automatisation et les médias sociaux. Co-fondateur de KRDS & Oh My Bot!. Fondateur de CommitStrip",
+      "tags":[
+        "CommitStrip"
+      ],
+      "title":"R&D expert"
+    },
     {
       "bio":"I work as a R&D expert, in the field of satellite image processing. I am piloting a small team working on deep learning and cloud aspects within Airbus Defence and Space. Over the past decade, I have been involved in numerous technical problems, all related to the processing of large satellite images. Our main goal is to bring new processing technologies and algorithm into production. It all started with a master in applied mathematics, a PhD and a post doc on image and signal processing.",
       "company":"Airbus Defence and space",
