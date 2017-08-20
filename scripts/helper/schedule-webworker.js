@@ -51,6 +51,12 @@ function addTagTo(tag, tags) {
   }
 }
 
+function removeEmptySession(sessions) {
+  return sessions.filter(function(session) {
+    return session.length !== 0;
+  })
+}
+
 self.addEventListener('message', function (e) {
   var speakers = e.data.speakers;
   var sessions = e.data.sessions;
@@ -66,6 +72,12 @@ self.addEventListener('message', function (e) {
         for (var sessionIndex = 0, sessionsLen = timeslot.sessions.length; sessionIndex < sessionsLen; sessionIndex++) {
           for (var subSessIdx = 0, subSessionsLen = timeslot.sessions[sessionIndex].length; subSessIdx < subSessionsLen; subSessIdx++) {
             var session = sessions[timeslot.sessions[sessionIndex][subSessIdx]];
+
+            if (!isDefined(session)) {
+              schedule[dayIdx].timeslots[timeSlotIdx].sessions[sessionIndex].splice(subSessIdx, 1);
+              continue;
+            }
+
             session.mainTag = session.tags ? session.tags[0] : 'General';
             session.day = dayIdx + 1;
 
@@ -84,6 +96,8 @@ self.addEventListener('message', function (e) {
             schedule[dayIdx].timeslots[timeSlotIdx].sessions[sessionIndex][subSessIdx] = session;
           }
         }
+
+        schedule[dayIdx].timeslots[timeSlotIdx].sessions = removeEmptySession(schedule[dayIdx].timeslots[timeSlotIdx].sessions)
       }
     }
   } else if (hasSpeakersAndSessions(speakers, sessions)) {
