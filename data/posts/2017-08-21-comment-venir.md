@@ -41,4 +41,5 @@ Ou encore, prendre le Tram jusqu'à Ancely (3ème arrêt après l'aéroport), po
 
 En espérant vous voir jeudi 28 septembre au CGR de Blagnac pour ce DevFest ! 
 
+
 L'équipe DevFest Toulouse
