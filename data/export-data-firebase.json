@@ -328,12 +328,14 @@
     "100": {
       "title":"Accueil et petit-déjeuner",
       "description":"Accueil et petit-déjeuner",
+      "image":"/images/backgrounds/petit-dejeuner.jpg",
       "id":100,
       "tags": ["General"]
     },
     "101": {
-      "title":"Le développeur Full Stack est mort, Vive le développeur universel",
+      "title":"Keynote d'ouverture: Le développeur Full Stack est mort, Vive le développeur universel",
       "description":"Le développeur Full Stack est mort, Vive le développeur universel",
+      "image":"/images/backgrounds/opening-keynote.jpg",
       "id":101,
       "tags": ["General"],
       "speakers":[
