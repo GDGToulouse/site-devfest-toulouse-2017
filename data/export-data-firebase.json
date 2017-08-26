@@ -783,7 +783,8 @@
         1772,
         1773,
         1136,
-        2
+        2,
+        3
       ],
       "tags":[
         "WTF"
@@ -796,7 +797,9 @@
       "id":2160,
       "language":"Français",
       "speakers":[
-        2691
+        2691,
+	2692,
+	2693
       ],
       "tags":[
         "Cloud"
@@ -845,6 +848,20 @@
         "CommitStrip"
       ],
       "title":"R&D expert"
+    },
+    {
+      "bio":"Etienne Issartial est un dessinateur et auteur spécialisé dans la bande-dessinée au format strip. Issu des Beaux-arts il s'échappe du circuit académique en passant par le dessin de presse et l'enseignement. En 2012, il fonde CommitStrip avec son ami Thomas Guenoux (Co-founder KRDS) et propose chaque jour un strip relatant avec humour le quotidien des developpeurs. Aujourd'hui, CommitStrip est un média majeur dans l'univers du développement et véritablement présent dans l'évolution du secteur (conférences internationales, partenariats...)",
+      "company":"CommitStrip",
+      "country":"France",
+      "featured":false,
+      "id":2,
+      "name":"Etienne Issartial",
+      "photoUrl":"/images/speakers/etienne-issartial.jpg",
+      "shortBio":"Etienne Issartial est un dessinateur et auteur spécialisé dans la bande-dessinée au format strip",
+      "tags":[
+        "CommitStrip"
+      ],
+      "title":"Dessinateur"
     },
     {
       "bio":"I work as a R&D expert, in the field of satellite image processing. I am piloting a small team working on deep learning and cloud aspects within Airbus Defence and Space. Over the past decade, I have been involved in numerous technical problems, all related to the processing of large satellite images. Our main goal is to bring new processing technologies and algorithm into production. It all started with a master in applied mathematics, a PhD and a post doc on image and signal processing.",
@@ -1776,6 +1793,7 @@
       "name":"Damien Cavaillès",
       "photoUrl":"/images/speakers/damien-cavailles.jpg",
       "shortBio":"Disrupting the way you hire a developer at @jechercheundev Freelance Mobile Dev, iOS & Android. Startup Weekend Facilitator.",
+      "country":"Lille, France",
       "socials":[
         {
           "icon":"twitter",
@@ -1801,6 +1819,7 @@
       "name":"Fabien Tregan",
       "photoUrl":"/images/speakers/fabien-tregan.jpeg",
       "shortBio":"Not trying to reach perfection. Just more or less walking toward it, trying to enjoy the landscape meanwhile.",
+      "country":"Toulouse, France",
       "socials":[
         {
           "icon":"twitter",
@@ -1822,6 +1841,7 @@
       "name":"Mélanie Bats",
       "photoUrl":"/images/speakers/melanie-bats.jpeg",
       "shortBio":"I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse...",
+      "country":"Toulouse, France",
       "socials":[
         {
           "icon":"twitter",
@@ -1841,12 +1861,13 @@
     },
     {
       "bio":"Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead. Elle aime particulièrement travailler sur les problématiques server side.\nAncienne étudiante de l'université Paris-Est Marne la Vallée, elle y enseigne à présent le java.\nElles est membre actif de Duchess France, association ayant pour but de donner de la visibilité aux femmes qui ont des métiers techniques, elle participe régulièrement à l'organisation d’événements techniques.",
-      "company":"casden",
+      "company":"Casden",
       "featured":false,
       "id":333,
-      "name":"Pauline iogna",
+      "name":"Pauline Iogna",
       "photoUrl":"/images/speakers/pauline-iogna.jpg",
       "shortBio":"Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead",
+      "country":"Paris, France",
       "socials":[
         {
           "icon":"twitter",
@@ -1867,6 +1888,7 @@
       "name":"Régis MARIE-JOSEPH",
       "photoUrl":"/images/speakers/regis-marie-joseph.jpg",
       "shortBio":"Dev mobiweb, curieux de tout !",
+      "country":"Brest, France",
       "socials":[
         {
           "icon":"twitter",
@@ -1887,6 +1909,7 @@
       "name":"Gilles Debunne",
       "photoUrl":"/images/speakers/gilles-debunne.jpeg",
       "shortBio":"Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile.",
+      "country":"Toulouse, France",
       "socials":[
         {
           "icon":"twitter",
