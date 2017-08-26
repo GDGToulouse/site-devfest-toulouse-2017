@@ -836,34 +836,6 @@
   },
   "speakers":[
     {
-      "bio":"Quand des développeurs rencontrent un dessinateur, ça donne un blog de dessins, d’anecdotes et d’actus vu par les codeurs ! Les développeurs, on le sait, aiment beaucoup lire les blogs de dessins :). Ça parle des codeurs, de leur quotidien, des gens qui bossent avec nous, des clients, des technos , des chats et des news aussi",
-      "company":"CommitStrip, KRDS, Oh my Bot!",
-      "country":"France",
-      "featured":false,
-      "id":1,
-      "name":"Thomas Gx",
-      "photoUrl":"/images/speakers/thomas-gx.jpg",
-      "shortBio":"Entrepreneur dans l'automatisation et les médias sociaux. Co-fondateur de KRDS & Oh My Bot!. Fondateur de CommitStrip",
-      "tags":[
-        "CommitStrip"
-      ],
-      "title":"R&D expert"
-    },
-    {
-      "bio":"Etienne Issartial est un dessinateur et auteur spécialisé dans la bande-dessinée au format strip. Issu des Beaux-arts il s'échappe du circuit académique en passant par le dessin de presse et l'enseignement. En 2012, il fonde CommitStrip avec son ami Thomas Guenoux (Co-founder KRDS) et propose chaque jour un strip relatant avec humour le quotidien des developpeurs. Aujourd'hui, CommitStrip est un média majeur dans l'univers du développement et véritablement présent dans l'évolution du secteur (conférences internationales, partenariats...)",
-      "company":"CommitStrip",
-      "country":"France",
-      "featured":false,
-      "id":3,
-      "name":"Etienne Issartial",
-      "photoUrl":"/images/speakers/etienne-issartial.jpg",
-      "shortBio":"Etienne Issartial est un dessinateur et auteur spécialisé dans la bande-dessinée au format strip",
-      "tags":[
-        "CommitStrip"
-      ],
-      "title":"Dessinateur"
-    },
-    {
       "bio":"I work as a R&D expert, in the field of satellite image processing. I am piloting a small team working on deep learning and cloud aspects within Airbus Defence and Space. Over the past decade, I have been involved in numerous technical problems, all related to the processing of large satellite images. Our main goal is to bring new processing technologies and algorithm into production. It all started with a master in applied mathematics, a PhD and a post doc on image and signal processing.",
       "company":"Airbus Defence and space",
       "country":"Toulouse, France",
@@ -1176,6 +1148,34 @@
         "Mixité"
       ],
       "title":"GDE Polymer"
+    },
+    {
+      "bio":"Quand des développeurs rencontrent un dessinateur, ça donne un blog de dessins, d’anecdotes et d’actus vu par les codeurs ! Les développeurs, on le sait, aiment beaucoup lire les blogs de dessins :). Ça parle des codeurs, de leur quotidien, des gens qui bossent avec nous, des clients, des technos , des chats et des news aussi",
+      "company":"CommitStrip, KRDS, Oh my Bot!",
+      "country":"France",
+      "featured":false,
+      "id":1,
+      "name":"Thomas Gx",
+      "photoUrl":"/images/speakers/thomas-gx.jpg",
+      "shortBio":"Entrepreneur dans l'automatisation et les médias sociaux. Co-fondateur de KRDS & Oh My Bot!. Fondateur de CommitStrip",
+      "tags":[
+        "CommitStrip"
+      ],
+      "title":"R&D expert"
+    },
+    {
+      "bio":"Etienne Issartial est un dessinateur et auteur spécialisé dans la bande-dessinée au format strip. Issu des Beaux-arts il s'échappe du circuit académique en passant par le dessin de presse et l'enseignement. En 2012, il fonde CommitStrip avec son ami Thomas Guenoux (Co-founder KRDS) et propose chaque jour un strip relatant avec humour le quotidien des developpeurs. Aujourd'hui, CommitStrip est un média majeur dans l'univers du développement et véritablement présent dans l'évolution du secteur (conférences internationales, partenariats...)",
+      "company":"CommitStrip",
+      "country":"France",
+      "featured":false,
+      "id":3,
+      "name":"Etienne Issartial",
+      "photoUrl":"/images/speakers/etienne-issartial.jpg",
+      "shortBio":"Etienne Issartial est un dessinateur et auteur spécialisé dans la bande-dessinée au format strip",
+      "tags":[
+        "CommitStrip"
+      ],
+      "title":"Dessinateur"
     },
     {
       "bio":"Front End CTO @sfeir GDE @google HTML5, JS, Web Components, Angular, Polymer, @bestofwebconf organizer...",
