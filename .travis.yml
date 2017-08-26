@@ -34,7 +34,13 @@ deploy:
 
 after_deploy:
 - echo "Deploying Database"
-- cat data/export-data-firebase.json | firebase database:set -y /
+- jq '.partners' data/export-data-firebase.json | firebase database:set -y /partners
+- jq '.schedule' data/export-data-firebase.json | firebase database:set -y /schedule
+- jq '.sessions' data/export-data-firebase.json | firebase database:set -y /sessions
+- jq '.speakers' data/export-data-firebase.json | firebase database:set -y /speakers
+- jq '.team' data/export-data-firebase.json | firebase database:set -y /team
+- jq '.tickets' data/export-data-firebase.json | firebase database:set -y /tickets
+- jq '.videos' data/export-data-firebase.json | firebase database:set -y /videos
 
 env:
   matrix:
