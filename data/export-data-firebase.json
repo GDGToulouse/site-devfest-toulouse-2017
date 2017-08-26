@@ -981,7 +981,7 @@
     },
     {
       "bio":"Architecte et développeur passionné. A travaillé comme architecte, CTO et leader technique dans plusieurs startups. Expert technique multi-compétences : systèmes scalables, NoSQL, moteurs de recherche, mais aussi front-end, devops et Iot. Bref, full-stack. Membre de la fondation Apache.",
-      "company":"",
+      "company":"Elastic",
       "country":"Toulouse, France",
       "featured":true,
       "id":205,
@@ -1250,7 +1250,7 @@
     },
     {
       "bio":"My day to day my mission is to help developers to create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies !",
-      "country":"France",
+      "country":"Paris, France",
       "featured":false,
       "id":255,
       "name":"Olivier Leplus",
@@ -1763,6 +1763,7 @@
     {
       "bio":"# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
       "company":"Viseo",
+      "country":"France",
       "featured":false,
       "id":2417,
       "name":"Alexandre Delattre",
