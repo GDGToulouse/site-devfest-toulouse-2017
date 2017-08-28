@@ -659,7 +659,7 @@
     },
     "1888":{
       "complexity":"Débutant",
-      "description":"[Flutter](https://flutter.io/) est un nouveau framework créé par Google dont l’objectif est de nous proposer une **nouvelle approche “cross-platform” de développement mobile**.\nEn utilisant une seule base de code écrite en **Dart**, on construit des **applications natives Android & iOS**.\n\n[Fushia](https://github.com/fuchsia-mirror) est le nom de code du nouveau système d’exploitation développé par Google. \nCet OS n’utilise pas le noyau Linux et Flutter est utilisé pour construire son interface graphique. \n\nCe talk vous propose d’aller à la découverte de ces 2 nouvelles technologies. Création de widget, navigation, gestion de plugins et plein d'autres astuces en Flutter vous seront présentées.\n\n*En bonus pendant ce talk, nous vous proposerons un jeu interactif grandeur nature, pour cela il vous suffira de télécharger ( depuis le playStore et l’Apple Store ), \nune application Flutter...*",
+      "description":"[Flutter](https://flutter.io/) est un nouveau framework créé par Google dont l’objectif est de nous proposer une **nouvelle approche “cross-platform” de développement mobile**.\nEn utilisant une seule base de code écrite en **Dart**, on construit des **applications natives Android & iOS**.\n\n[Fuchsia](https://github.com/fuchsia-mirror) est le nom de code du nouveau système d’exploitation développé par Google. \nCet OS n’utilise pas le noyau Linux et Flutter est utilisé pour construire son interface graphique. \n\nCe talk vous propose d’aller à la découverte de ces 2 nouvelles technologies. Création de widget, navigation, gestion de plugins et plein d'autres astuces en Flutter vous seront présentées.\n\n*En bonus pendant ce talk, nous vous proposerons un jeu interactif grandeur nature, pour cela il vous suffira de télécharger ( depuis le playStore et l’Apple Store ), \nune application Flutter...*",
       "id":1888,
       "language":"Français",
       "speakers":[
@@ -669,7 +669,7 @@
       "tags":[
         "Mobile"
       ],
-      "title":"A la découverte de Google Flutter et Fushia dans l’écosystème Dart"
+      "title":"A la découverte de Google Flutter et Fuchsia dans l’écosystème Dart"
     },
     "1897":{
       "complexity":"Confirmé",
