@@ -358,7 +358,7 @@
     },
     "1560":{
       "complexity":"Débutant",
-      "description":"2 évolutions majeures d'un langage et d'un protocole se retrouvent à la portée du grand public dans les navigateurs récents, et bousculent la conception d'applications web modernes.\n\nLeurs vies étant transformées à jamais, ils doivent apprendre à maîtriser leurs nouvelles capacités et à travailler ensemble afin de sauver la communauté frontend de ce nouveau chaos.",
+      "description":"Les modules ES6 sont maintenant supportés par la majorité des navigateurs récents.\nEn les utilisant dès maintenant nous découpons notre code pour une meilleure architecture, et un support du tree-shaking par exemple.\nMais ce support natif des navigateurs peut-il nous simplifier la tâche lors de nos développements ?\nA-t-on encore besoin de livrer un seul bundle JavaScript ?\nL'utilisation combinée d'HTTP/2 va-t-elle encore plus simplifier les choses ?\nQu'en est-il pour les applications isomorphiques ?\nDécouvrons toutes les réponses à ces questions lors de ce talk 100% JavaScript !",
       "id":1560,
       "language":"Français",
       "type": "Conference",
@@ -368,7 +368,7 @@
       "tags":[
         "Web"
       ],
-      "title":"Modules ES6 & HTTP/2 - Les gardiens de la galaxie web"
+      "title":"Modules ES6 & HTTP/2 - Va-t-on arrêter de packager notre code JavaScript ?"
     },
     "1574":{
       "complexity":"Confirmé",
