@@ -142,9 +142,16 @@
         {
           "logoUrl":"../images/partners/MonkeyPatch.jpg",
           "name":"MonkeyPatch",
-          "url":"www.monkeypatch.io",
+          "url":"http://www.monkeypatch.io",
+          "width":70
+        },
+        {
+          "logoUrl":"../images/partners/saagie.png",
+          "name":"Saagie",
+          "url":"https://www.saagie.com/fr",
           "width":70
         }
+
       ],
       "title":"Soutien"
     },
