@@ -58,6 +58,12 @@
           "name":"Gfi",
           "url":"http://www.gfi.world/fr/",
           "width":100
+        },
+        {
+          "logoUrl":"../images/partners/mobiyo.png",
+          "name":"Mobiyo",
+          "url":"http://www.mobiyo.com",
+          "width":100
         }
       ],
       "title":"Or"
