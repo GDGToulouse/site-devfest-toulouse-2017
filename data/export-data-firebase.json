@@ -109,6 +109,11 @@
           "logoUrl":"../images/partners/lyra.png",
           "name":"Lyra Network",
           "url":"http://www.lyra-network.com"
+        },
+        {
+          "logoUrl":"../images/partners/google.svg",
+          "name":"Google",
+          "url":"https://www.google.com/"
         }
       ],
       "title":"Argent"
