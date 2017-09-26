@@ -64,6 +64,12 @@
           "name":"Mobiyo",
           "url":"http://www.mobiyo.com",
           "width":100
+        },
+        {
+          "logoUrl":"../images/partners/airbus.png",
+          "name":"Airbus",
+          "url":"http://www.airbus.com/",
+          "width":150
         }
       ],
       "title":"Or"
