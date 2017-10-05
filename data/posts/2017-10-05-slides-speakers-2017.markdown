@@ -2,7 +2,7 @@ L'édition 2017 du DevFest Toulouse s'est déroulée jeudi dernier. Nous sommes 
 
 Nous avons créé un [album photo collaboratif](https://photos.app.goo.gl/iKxeQlbnR1jWOHc92), nous vous invitons à y mettre les photos que vous avez prises durant l'événement. Le photographe officiel n'a pas chomé de son côté, voici les [photos officielles](https://photos.app.goo.gl/vaM8lJs9Kr6RIz3S2). 
 
-Le DevFest est terminé mais lorsque l'on est organisateur le travail ne s'arrête pas là. Nous allons envoyer dans les jours qui viennent un formulaire de feedbacks à tous les participants, speaker.se.s et sponsors afin de receuillir vos retours dans l'optique de savoir ce qu'il vous a plu et ce que nous devons améliorer pour les prochaines éditions.
+Le DevFest est terminé mais lorsque l'on est organisateur le travail ne s'arrête pas là. Nous allons envoyer dans les jours qui viennent un formulaire de feedbacks à tous les participants, speaker.se.s et sponsors afin de receuillir leurs retours dans l'optique de savoir ce qu'il leur a plu et ce que nous devons améliorer pour les prochaines éditions.
 
 En attendant la mise en ligne des vidéos des talks filmés, voici un récapitulatif des liens vers les slides/présentations :
 
