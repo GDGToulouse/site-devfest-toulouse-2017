@@ -1,4 +1,4 @@
-L'édition 2017 du DevFest Toulouse s'est déroulée jeudi dernier. Nous sommes fier d'avoir partagé avec vous cette super journée remplie de conférences, de pop-corn, de goodies, d'échanges et de chocolatines. Nous tenons à vous remercier d'être venu aussi nombreux !
+L'édition 2017 du DevFest Toulouse s'est déroulée jeudi dernier. Nous sommes fiers d'avoir partagé avec vous cette super journée remplie de conférences, de pop-corn, de goodies, d'échanges et de chocolatines. Nous tenons à vous remercier d'être venu aussi nombreux !
 
 Nous avons créé un [album photo collaboratif](https://photos.app.goo.gl/iKxeQlbnR1jWOHc92), nous vous invitons à y mettre les photos que vous avez prises durant l'événement. Le photographe officiel n'a pas chomé de son côté, voici les [photos officielles](https://photos.app.goo.gl/vaM8lJs9Kr6RIz3S2). 
 
