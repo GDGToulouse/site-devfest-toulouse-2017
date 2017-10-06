@@ -17,7 +17,7 @@ En attendant la mise en ligne des vidéos des talks filmés, voici un récapitul
 * [Et après Développeur, chef de projet ?](https://github.com/jechercheundev/conf-cdp-non-merci)
 * Faire du Machine Learning sans Data Scientist
 * Make load-balancing great again with Traefik!
-* Il n'y a pas que Angular, React ou VueJS dans la vie
+* [Il n'y a pas que Angular, React ou VueJS dans la vie](https://docs.google.com/presentation/d/1_5c_O2w8PmQPcJvEGDEi_KKyEtLa-dLcTzfdoHWPxN0/edit#slide=id.p)
 * Des portes logiques pneumatiques en bois
 * [Déploiement automatique d'app iOS et/ou Android](https://www.slideshare.net/CedricGatay/devops-for-mobile-iosandroid/1)
 * L'UX a sauvé mon DevOps
@@ -33,7 +33,7 @@ En attendant la mise en ligne des vidéos des talks filmés, voici un récapitul
 * Quand Internet sera gouvernée par les |chats> de Shrödinger
 * Big Data avec AWS : notre retour d'expérience sur l'utilisation des services managés
 * Comment être un développeur ethique et green ? Dilemne entre la course technologique et mon impact sur la société.
-* Ici votre commandant de bord, on passe en mode avion !
+* [Ici votre commandant de bord, on passe en mode avion !](http://slides.com/olivierleplus/offline-support-progressive-web-app-pwa#/)
 * [Un chatbot en 5 étapes avec api.ai](https://docs.google.com/presentation/d/1inqklNooYeBuMju_CbrBa8OnN0Ec9l8xBKGD7V7kVls/edit?usp=drivesdk)
 * BATTLESTAR GALACTICA: Saison 5 - Les Cylons passent dans le cloud avec Vert.x
 * Apéro Fonctionnel
