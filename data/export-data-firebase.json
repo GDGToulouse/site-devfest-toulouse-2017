@@ -378,6 +378,7 @@
       "tags":[
         "Web"
       ],
+      "presentation":"https://t.co/BduZaLD9qu",
       "title":"CSS is Awesome !"
     },
     "1560":{
@@ -392,6 +393,7 @@
       "tags":[
         "Web"
       ],
+      "presentation":"http://slides.com/vogloblinsky/modules-es6-http2-va-t-on-arreter-de-packager-notre-code-javascript",
       "title":"Modules ES6 & HTTP/2 - Va-t-on arrêter de packager notre code JavaScript ?"
     },
     "1574":{
@@ -420,6 +422,7 @@
       "tags":[
         "WTF"
       ],
+      "presentation":"https://fr.slideshare.net/ndeloof/quand-internet-sera-gouverne-par-les-chats-de-shrdinger-80575686",
       "title":"Quand Internet sera gouvernée par les |chats> de Shrödinger"
     },
     "1593":{
@@ -434,6 +437,7 @@
       "tags":[
         "WTF"
       ],
+      "presentation":"https://github.com/FabienTregan/PortesLogiquesPneumatiques",
       "title":"Des portes logiques pneumatiques en bois"
     },
     "1610":{
@@ -448,6 +452,7 @@
       "tags":[
         "Languages"
       ],
+      "presentation":"https://speakerdeck.com/agiuliani/beyond-kotlin-advanced-features-for-api-makers",
       "title":"Plus loin avec Kotlin !"
     },
     "1626":{
@@ -505,6 +510,7 @@
       "tags":[
         "Cloud"
       ],
+      "presentation":"https://speakerdeck.com/k33g/le-plan",
       "title":"BATTLESTAR GALACTICA: Saison 5 - Les Cylons passent dans le cloud avec Vert.x"
     },
     "1694":{
@@ -519,6 +525,7 @@
       "tags":[
         "IA"
       ],
+      "presentation":"https://docs.google.com/presentation/d/1inqklNooYeBuMju_CbrBa8OnN0Ec9l8xBKGD7V7kVls/edit?usp=drivesdk",
       "title":"Un chatbot en 5 étapes avec api.ai"
     },
     "1697":{
@@ -547,6 +554,7 @@
       "tags":[
         "Methods & Tools"
       ],
+      "presentation":"https://www.slideshare.net/swallez/elastic-from-50-to-270-how-to-scale-a-distributed-engineering-team",
       "title":"Elastic : comment fonctionne une équipe d'ingénierie totalement distribuée de 250 personnes"
     },
     "1712":{
@@ -576,6 +584,7 @@
       "tags":[
         "Cloud"
       ],
+      "presentation":"https://emilevauge.github.io/devFestToulouse2017/#/",
       "title":"Make load-balancing great again with Traefik!"
     },
     "1743":{
@@ -618,6 +627,7 @@
       "tags":[
         "Web"
       ],
+      "presentation":"https://www.dropbox.com/s/568set0pnlgcg51/State%20of%20React.pdf?dl=0",
       "title":"Bonnes pratiques React en 15 diapos"
     },
     "1794":{
@@ -632,6 +642,7 @@
       "tags":[
         "Web"
       ],
+      "presentation":"https://slides.com/nnodot/devfest_webassembly",
       "title":"WebAssembly ? Web et assembleur ? WTF !"
     },
     "1798":{
@@ -662,6 +673,7 @@
       "tags":[
         "Languages"
       ],
+      "presentation":"https://loganmzz.github.io/rust-presentation-introduction/?print-pdf#/",
       "title":"Demain j'arrête le café, je me met au crabe !"
     },
     "1803":{
@@ -704,6 +716,7 @@
       "tags":[
         "Data"
       ],
+      "presentation":"https://speakerdeck.com/tgrall/introduction-to-stream-processing-with-apache-flink",
       "title":"Stream processing avec Apache Flink"
     },
     "1888":{
@@ -719,6 +732,7 @@
       "tags":[
         "Mobile"
       ],
+      "presentation":"https://drive.google.com/open?id=1bmUcCJIYizcCmTqzd8B71PxCbGW7Hg09CH46tOXi1g4",
       "title":"A la découverte de Google Flutter et Fuchsia dans l’écosystème Dart"
     },
     "1897":{
@@ -734,6 +748,7 @@
       "tags":[
         "Mobile"
       ],
+      "presentation":"https://www.slideshare.net/CedricGatay/devops-for-mobile-iosandroid/1",
       "title":"Déploiement automatique d'app iOS et/ou Android"
     },
     "2081":{
@@ -749,6 +764,7 @@
       "tags":[
         "Methods & Tools"
       ],
+      "presentation":"https://docs.google.com/presentation/d/1VYWn_f-e_sLdiQ9oBC0pdQLEtrmU8OqotgSpFmcf6NA/present#slide=id.g35f391192_00",
       "title":"L'UX a sauvé mon DevOps"
     },
     "2091":{
@@ -791,6 +807,7 @@
       "tags":[
         "WTF"
       ],
+      "presentation":"https://www.slideshare.net/melbats/devfest-2017-libre-dlivre-ou-comment-devenir-dveloppeuse-open-source",
       "title":"Libérée! Délivrée! ou Comment devenir développeuse open source ?"
     },
     "2129":{
@@ -819,6 +836,7 @@
       "tags":[
         "Data"
       ],
+      "presentation":"https://www.slideshare.net/BILLMETANGMOTSOBZE/how-big-data-could-benefit-from-physics-ddd",
       "title":"Les lois de la physique classique s'appliquent aussi au Big Data !"
     },
     "2151":{
@@ -832,6 +850,7 @@
       "tags":[
         "WTF"
       ],
+      "presentation":"https://github.com/jechercheundev/conf-cdp-non-merci",
       "title":"Et après Développeur, chef de projet ?"
     },
     "2158":{
@@ -880,7 +899,7 @@
       "tags":[
         "Web"
       ],
-      "presentation":"http://slides.com/olivierleplus/offline-support-progressive-web-app-pwa#/",
+      "presentation":"http://slides.com/olivierleplus/offline-support-progressive-web-app-pwa",
       "title":"Ici votre commandant de bord, on passe en mode avion !"
     },
     "2166":{
