@@ -541,6 +541,7 @@
       "tags":[
         "Cloud"
       ],
+      "presentation": "https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-c76d7.appspot.com/o/slides%2FBisounoursDevFestTlse2017.pdf?alt=media&token=7b4b5691-5372-463c-a73e-ec0db8c27119",
       "title":"Quand nous avons emmené notre web app chez les Bisounours"
     },
     "1706":{
@@ -628,7 +629,7 @@
       "tags":[
         "Web"
       ],
-      "presentation":"https://www.dropbox.com/s/568set0pnlgcg51/State%20of%20React.pdf?dl=0",
+      "presentation":"https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-c76d7.appspot.com/o/slides%2FreactBestPractices.pdf?alt=media&token=e2127210-fb97-4882-80db-c3b7abf5f400",
       "title":"Bonnes pratiques React en 15 diapos"
     },
     "1794":{
@@ -839,7 +840,7 @@
       "tags":[
         "Data"
       ],
-      "presentation":"https://www.slideshare.net/BILLMETANGMOTSOBZE/how-big-data-could-benefit-from-physics-ddd",
+      "presentation":"https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-c76d7.appspot.com/o/slides%2FPhysics-BigData.pdf?alt=media&token=27e58320-2949-4d02-9a27-7cbd1664b352",
       "title":"Les lois de la physique classique s'appliquent aussi au Big Data !"
     },
     "2151":{
@@ -853,7 +854,7 @@
       "tags":[
         "WTF"
       ],
-      "presentation":"https://github.com/jechercheundev/conf-cdp-non-merci",
+      "presentation":"https://jechercheundev.github.io/conf-cdp-non-merci/#/",
       "title":"Et après Développeur, chef de projet ?"
     },
     "2158":{
