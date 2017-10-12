@@ -921,6 +921,7 @@
       "tags":[
         "Machine Learning"
       ],
+      "presentation":"https://github.com/SamAstro/devfest_toulouse_2017_LIME_presentation",
       "title":"Interprétabilité des modèles de Machine Learning avec LIME"
     }
   },
