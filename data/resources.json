@@ -69,6 +69,14 @@
             "url": "/cod/",
             "newTab": false
         }, {
+            "text": "Album photo officielles",
+            "url": "https://photos.app.goo.gl/vaM8lJs9Kr6RIz3S2",
+            "newTab": true
+        }, {
+            "text": "Album photo collaboratif",
+            "url": "https://photos.app.goo.gl/iKxeQlbnR1jWOHc92",
+            "newTab": true
+        }, {
             "text": "DevFest Toulouse 2016",
             "url": "https://2016.devfesttoulouse.fr/",
             "newTab": true
