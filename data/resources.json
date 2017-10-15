@@ -102,13 +102,13 @@
     "teamPageTitle": "Equipe",
     "teamPageText": "Le DevFest Toulouse est une événement organisé par les communautés de développeurs de Toulouse, et porté administrativement par le GDG Toulouse (ex TAUG).<br/>Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse.",
     "statistics": [{
-        "counter": 450,
+        "counter": 500,
         "caption": "Participants"
     }, {
         "counter": 1,
         "caption": "Journée"
     }, {
-        "counter": 28,
+        "counter": 36,
         "caption": "Sessions"
     }, {
         "counter": 4,
