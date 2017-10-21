@@ -58,6 +58,10 @@
     "removedFromSchedule": "Supprimer de mon agenda",
     "addedToSchedule": "Ajouter à mon agenda",
     "rateSession": "Noter la session",
+    "addPhotos": "Ajoutez vos photos",
+    "sharedAlbum": "Album partagé",
+    "viewPhoto": "Regardez les photos du #DevfestToulouse 2017",
+    "official": "Album officiel",
     "footerBlocks": [{
         "title": "Visiteurs",
         "links": [{
