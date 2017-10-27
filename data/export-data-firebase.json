@@ -362,6 +362,7 @@
       "image":"/images/backgrounds/opening-keynote.jpg",
       "id":101,
       "presentation":"https://drive.google.com/open?id=0B5KBA1bmsXepVGNZeUNRY1g2bFk",
+      "videoId":"Jcs2Fp8jHEQ",
       "tags": ["General"],
       "speakers":[
         1
@@ -380,6 +381,7 @@
         "Web"
       ],
       "presentation":"https://t.co/BduZaLD9qu",
+      "videoId":"fPObs60585w",
       "title":"CSS is Awesome !"
     },
     "1560":{
@@ -395,6 +397,7 @@
         "Web"
       ],
       "presentation":"http://slides.com/vogloblinsky/modules-es6-http2-va-t-on-arreter-de-packager-notre-code-javascript",
+      "videoId":"yLUwjl7bN6U",
       "title":"Modules ES6 & HTTP/2 - Va-t-on arrêter de packager notre code JavaScript ?"
     },
     "1574":{
@@ -410,6 +413,7 @@
         "IA"
       ],
       "presentation":"https://drive.google.com/open?id=0B6vy7kY4UrXBc09IYlRldkNhRF9sSjMwaWlZeHBhNlhZZFNJ",
+      "videoId":"dLfdmbRz9EE",
       "title":"Deep learning for satellite image processing, lessons learned"
     },
     "1590":{
@@ -425,6 +429,7 @@
         "WTF"
       ],
       "presentation":"https://fr.slideshare.net/ndeloof/quand-internet-sera-gouverne-par-les-chats-de-shrdinger-80575686",
+      "videoId":"nDg4lLnHfTY",
       "title":"Quand Internet sera gouvernée par les |chats> de Shrödinger"
     },
     "1593":{
@@ -440,6 +445,7 @@
         "WTF"
       ],
       "presentation":"https://github.com/FabienTregan/PortesLogiquesPneumatiques",
+      "videoId":"2u8UJ6-xKc4",
       "title":"Des portes logiques pneumatiques en bois"
     },
     "1610":{
@@ -455,6 +461,7 @@
         "Languages"
       ],
       "presentation":"https://speakerdeck.com/agiuliani/beyond-kotlin-advanced-features-for-api-makers",
+      "videoId":"3zVdKPZyq5Q",
       "title":"Plus loin avec Kotlin !"
     },
     "1626":{
@@ -470,6 +477,7 @@
         "Languages"
       ],
       "presentation":"https://docs.google.com/presentation/d/1f2klrkatGXauFL8QbM7Ad3C0WTu01-uaAoeCsuqrgJM/edit#slide=id.p",
+      "videoId":"IEbrpUZAU1c",
       "title":"Functional Programming Explained to my grandma"
     },
     "1637":{
@@ -485,6 +493,7 @@
         "Web"
       ],
       "presentation": "https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-c76d7.appspot.com/o/slides%2FRXMarbleTesting.pdf?alt=media&token=0863894e-d439-46c6-b70e-894c0830154f",
+      "videoId":"ei0SOj7oRsg",
       "title":"Introduction au marble testing Rx (Web, iOS, Android)"
     },
     "1638":{
@@ -516,6 +525,7 @@
         "Cloud"
       ],
       "presentation":"https://speakerdeck.com/k33g/le-plan",
+      "videoId":"rbuEIIwYly8",
       "title":"BATTLESTAR GALACTICA: Saison 5 - Les Cylons passent dans le cloud avec Vert.x"
     },
     "1694":{
@@ -531,6 +541,7 @@
         "IA"
       ],
       "presentation":"https://docs.google.com/presentation/d/1inqklNooYeBuMju_CbrBa8OnN0Ec9l8xBKGD7V7kVls/edit?usp=drivesdk",
+      "videoId":"AZm-OVeNmU8",
       "title":"Un chatbot en 5 étapes avec api.ai"
     },
     "1697":{
@@ -546,6 +557,7 @@
         "Cloud"
       ],
       "presentation": "https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-c76d7.appspot.com/o/slides%2FBisounoursDevFestTlse2017.pdf?alt=media&token=7b4b5691-5372-463c-a73e-ec0db8c27119",
+      "videoId":"8z00go15PAw",
       "title":"Quand nous avons emmené notre web app chez les Bisounours"
     },
     "1706":{
@@ -561,6 +573,7 @@
         "Methods & Tools"
       ],
       "presentation":"https://www.slideshare.net/swallez/elastic-from-50-to-270-how-to-scale-a-distributed-engineering-team",
+      "videoId":"rrlPhedNjbA",
       "title":"Elastic : comment fonctionne une équipe d'ingénierie totalement distribuée de 250 personnes"
     },
     "1712":{
@@ -576,6 +589,7 @@
         "Web"
       ],
       "presentation":"https://docs.google.com/presentation/d/1_5c_O2w8PmQPcJvEGDEi_KKyEtLa-dLcTzfdoHWPxN0/edit#slide=id.p",
+      "videoId":"K8U6KDD_6sU",
       "title":"Il n'y a pas que Angular, React ou VueJS dans la vie"
     },
     "1732":{
@@ -591,6 +605,7 @@
         "Cloud"
       ],
       "presentation":"https://emilevauge.github.io/devFestToulouse2017/#/",
+      "videoId":"qRatic6jBd4",
       "title":"Make load-balancing great again with Traefik!"
     },
     "1743":{
@@ -606,6 +621,7 @@
         "Methods & Tools"
       ],
       "presentation":" https://www.slideshare.net/ophilippot/devfest-toulouse-comment-tre-une-dveloppeuse-un-dveloppeur-ethique-et-green",
+      "videoId":"AM-G43Zyqng",
       "title":"Comment être un développeur ethique et green ? Dilemne entre la course technologique et mon impact sur la société."
     },
     "1756":{
@@ -621,6 +637,7 @@
         "Cloud"
       ],
       "presentation":"https://drive.google.com/open?id=0B5KBA1bmsXepM0VyQzlyY1NhMEk",
+      "videoId":"UBkp48NXyW0",
       "title":"Kubernetes et les containers pour votre application Web : step by step"
     },
     "1787":{
@@ -636,6 +653,7 @@
         "Web"
       ],
       "presentation":"https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-c76d7.appspot.com/o/slides%2FreactBestPractices.pdf?alt=media&token=e2127210-fb97-4882-80db-c3b7abf5f400",
+      "videoId":"8t7YdaigW9U",
       "title":"Bonnes pratiques React en 15 diapos"
     },
     "1794":{
@@ -651,6 +669,7 @@
         "Web"
       ],
       "presentation":"https://slides.com/nnodot/devfest_webassembly",
+      "videoId":"1AtmE1JHaZg",
       "title":"WebAssembly ? Web et assembleur ? WTF !"
     },
     "1798":{
@@ -667,6 +686,7 @@
         "Web"
       ],
       "presentation":"https://www.slideshare.net/LostInBrittany/mixit-dans-le-monde-des-webcomponents-devfest-toulouse-20170927",
+      "videoId":"_LlDG9sKKi8",
       "title":"Mixité dans le monde des Web Components"
     },
     "1802":{
@@ -683,6 +703,7 @@
         "Languages"
       ],
       "presentation":"https://loganmzz.github.io/rust-presentation-introduction/?print-pdf#/",
+      "videoId":"FTphI0mtVhQ",
       "title":"Demain j'arrête le café, je me met au crabe !"
     },
     "1803":{
@@ -697,6 +718,7 @@
       "tags":[
         "Cloud"
       ],
+      "videoId":"RpFCq0KaWlE",
       "title":"Azure pour les développeurs"
     },
     "1838":{
@@ -711,6 +733,7 @@
       "tags":[
         "Web"
       ],
+      "videoId":"BHTgiBGyY8U",
       "title":"Elm, est-ce si bien qu'on le dit"
     },
     "1879":{
@@ -726,6 +749,7 @@
         "Data"
       ],
       "presentation":"https://speakerdeck.com/tgrall/introduction-to-stream-processing-with-apache-flink",
+      "videoId":"wdhKfBs_lvI",
       "title":"Stream processing avec Apache Flink"
     },
     "1888":{
@@ -742,6 +766,7 @@
         "Mobile"
       ],
       "presentation":"https://drive.google.com/open?id=1bmUcCJIYizcCmTqzd8B71PxCbGW7Hg09CH46tOXi1g4",
+      "videoId":"TzO5dgm-AVE",
       "title":"A la découverte de Google Flutter et Fuchsia dans l’écosystème Dart"
     },
     "1897":{
@@ -758,6 +783,7 @@
         "Mobile"
       ],
       "presentation":"https://www.slideshare.net/CedricGatay/devops-for-mobile-iosandroid/1",
+      "videoId":"f7UD9nCXrS4",
       "title":"Déploiement automatique d'app iOS et/ou Android"
     },
     "2081":{
@@ -774,6 +800,7 @@
         "Methods & Tools"
       ],
       "presentation":"https://docs.google.com/presentation/d/1VYWn_f-e_sLdiQ9oBC0pdQLEtrmU8OqotgSpFmcf6NA/present#slide=id.g35f391192_00",
+      "videoId":"Fewiev77RR8",
       "title":"L'UX a sauvé mon DevOps"
     },
     "2091":{
@@ -789,6 +816,7 @@
         "Machine Learning"
       ],
       "presentation":"https://docs.google.com/presentation/d/1-WxaoTqpdRtu7xkKvOd-PCi3_aGOxQaBVOJir1lFtsY/edit#slide=id.g102c156bff_0_66",
+      "videoId":"6oYA4tguYUs",
       "title":"Faire du Machine Learning sans Data Scientist"
     },
     "2123":{
@@ -804,6 +832,7 @@
         "Web"
       ],
       "presentation":"https://fcabestre.github.io/DevfestToulouse2017/#/",
+      "videoId":"o8NYd55Sl2Y",
       "title":"Balade au pays de «Let's Encrypt»"
     },
     "2125":{
@@ -819,6 +848,7 @@
         "WTF"
       ],
       "presentation":"https://www.slideshare.net/melbats/devfest-2017-libre-dlivre-ou-comment-devenir-dveloppeuse-open-source",
+      "videoId":"mx1aX_69Atw",
       "title":"Libérée! Délivrée! ou Comment devenir développeuse open source ?"
     },
     "2129":{
@@ -833,6 +863,7 @@
       "tags":[
         "Languages"
       ],
+      "videoId":"YAFRxqz8lrU",
       "title":"ES2048"
     },
     "2137":{
@@ -848,6 +879,7 @@
         "Data"
       ],
       "presentation":"https://firebasestorage.googleapis.com/v0/b/devfesttoulouse-c76d7.appspot.com/o/slides%2FPhysics-BigData.pdf?alt=media&token=27e58320-2949-4d02-9a27-7cbd1664b352",
+      "videoId":"0lLf51o4a_o",
       "title":"Les lois de la physique classique s'appliquent aussi au Big Data !"
     },
     "2151":{
@@ -862,6 +894,7 @@
         "WTF"
       ],
       "presentation":"https://jechercheundev.github.io/conf-cdp-non-merci/#/",
+      "videoId":"JRXUgIwcPlw",
       "title":"Et après Développeur, chef de projet ?"
     },
     "2158":{
@@ -881,6 +914,7 @@
         "WTF"
       ],
       "presentation":"https://speakerd.s3.amazonaws.com/presentations/7c682feb61c74f2f91de168648d5295a/apero.pdf",
+      "videoId":"o4ueMzhro1o",
       "title":"Apéro fonctionnel"
     },
     "2160":{
@@ -898,6 +932,7 @@
         "Cloud"
       ],
       "presentation":"https://drive.google.com/open?id=0B5KBA1bmsXepNlFVU3l6bC0zVXM",
+      "videoId":"4dd-K_fkUx4",
       "title":"Big Data avec AWS : notre retour d'expérience sur l'utilisation des services managés"
     },
     "2164":{
@@ -913,6 +948,7 @@
         "Web"
       ],
       "presentation":"http://slides.com/olivierleplus/offline-support-progressive-web-app-pwa",
+      "videoId":"zzLZSM_pOIE",
       "title":"Ici votre commandant de bord, on passe en mode avion !"
     },
     "2166":{
@@ -929,6 +965,7 @@
         "Machine Learning"
       ],
       "presentation":"https://github.com/SamAstro/devfest_toulouse_2017_LIME_presentation",
+      "videoId":"NZ-s1UUKDD0",
       "title":"Interprétabilité des modèles de Machine Learning avec LIME"
     }
   },
