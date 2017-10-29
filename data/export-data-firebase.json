@@ -2356,12 +2356,228 @@
     ],
     "url":"http://bit.ly/devfesttoulouse-2017-billetterie"
   },
-  "videos":[
+  "videos": [
     {
-      "speakers":"Jakub Škvára",
-      "thumbnail":"/images/sessions/116.JPG",
-      "title":"Polymer vs other libraries",
-      "youtubeId":"-UEURYYVCmg"
+      "speakers": "Thomas Gx",
+      "title": "Keynote d'ouverture: Le développeur Full Stack est mort, Vive le développeur universel",
+      "youtubeId": "Jcs2Fp8jHEQ",
+      "thumbnail": "/images/sessions/Jcs2Fp8jHEQ.jpg"
+    },
+    {
+      "speakers": "Igor Laborie",
+      "title": "CSS is Awesome !",
+      "youtubeId": "fPObs60585w",
+      "thumbnail": "/images/sessions/fPObs60585w.jpg"
+    },
+    {
+      "speakers": "Vincent Ogloblinsky",
+      "title": "Modules ES6 & HTTP/2 - Va-t-on arrêter de packager notre code JavaScript ?",
+      "youtubeId": "yLUwjl7bN6U",
+      "thumbnail": "/images/sessions/yLUwjl7bN6U.jpg"
+    },
+    {
+      "speakers": "Vincent Ogloblinsky",
+      "title": "Deep learning for satellite image processing, lessons learned",
+      "youtubeId": "dLfdmbRz9EE",
+      "thumbnail": "/images/sessions/dLfdmbRz9EE.jpg"
+    },
+    {
+      "speakers": "Nicolas De Loof",
+      "title": "Quand Internet sera gouvernée par les |chats> de Shrödinger",
+      "youtubeId": "nDg4lLnHfTY",
+      "thumbnail": "/images/sessions/nDg4lLnHfTY.jpg"
+    },
+    {
+      "speakers": "Fabien Tregan",
+      "title": "Des portes logiques pneumatiques en bois",
+      "youtubeId": "2u8UJ6-xKc4",
+      "thumbnail": "/images/sessions/2u8UJ6-xKc4.jpg"
+    },
+    {
+      "speakers": "Arnaud Giuliani",
+      "title": "Plus loin avec Kotlin !",
+      "youtubeId": "3zVdKPZyq5Q",
+      "thumbnail": "/images/sessions/3zVdKPZyq5Q.jpg"
+    },
+    {
+      "speakers": "Charlotte Cavalier",
+      "title": "Functional Programming Explained to my grandma",
+      "youtubeId": "IEbrpUZAU1c",
+      "thumbnail": "/images/sessions/IEbrpUZAU1c.jpg"
+    },
+    {
+      "speakers": "Alexandre Delattre",
+      "title": "Introduction au marble testing Rx (Web, iOS, Android)",
+      "youtubeId": "ei0SOj7oRsg",
+      "thumbnail": "/images/sessions/ei0SOj7oRsg.jpg"
+    },
+    {
+      "speakers": "Philippe Charrière",
+      "title": "BATTLESTAR GALACTICA: Saison 5 - Les Cylons passent dans le cloud avec Vert.x",
+      "youtubeId": "rbuEIIwYly8",
+      "thumbnail": "/images/sessions/rbuEIIwYly8.jpg"
+    },
+    {
+      "speakers": "Pauline Iogna",
+      "title": "Un chatbot en 5 étapes avec api.ai",
+      "youtubeId": "AZm-OVeNmU8",
+      "thumbnail": "/images/sessions/AZm-OVeNmU8.jpg"
+    },
+    {
+      "speakers": "Alexis Tual",
+      "title": "Quand nous avons emmené notre web app chez les Bisounours",
+      "youtubeId": "8z00go15PAw",
+      "thumbnail": "/images/sessions/8z00go15PAw.jpg"
+    },
+    {
+      "speakers": "Sylvain Wallez",
+      "title": "Elastic : comment fonctionne une équipe d'ingénierie totalement distribuée de 250 personnes",
+      "youtubeId": "rrlPhedNjbA",
+      "thumbnail": "/images/sessions/rrlPhedNjbA.jpg"
+    },
+    {
+      "speakers": "Emmanuel DEMEY",
+      "title": "Il n'y a pas que Angular, React ou VueJS dans la vie",
+      "youtubeId": "K8U6KDD_6sU",
+      "thumbnail": "/images/sessions/K8U6KDD_6sU.jpg"
+    },
+    {
+      "speakers": "Emile Vauge",
+      "title": "Make load-balancing great again with Traefik!",
+      "youtubeId": "qRatic6jBd4",
+      "thumbnail": "/images/sessions/qRatic6jBd4.jpg"
+    },
+    {
+      "speakers": "Olivier Philippot",
+      "title": "Comment être un développeur ethique et green ? Dilemne entre la course technologique et mon impact sur la société.",
+      "youtubeId": "AM-G43Zyqng",
+      "thumbnail": "/images/sessions/AM-G43Zyqng.jpg"
+    },
+    {
+      "speakers": "Alain Regnier",
+      "title": "Kubernetes et les containers pour votre application Web : step by step",
+      "youtubeId": "UBkp48NXyW0",
+      "thumbnail": "/images/sessions/UBkp48NXyW0.jpg"
+    },
+    {
+      "speakers": "Gilles Debunne",
+      "title": "Bonnes pratiques React en 15 diapos",
+      "youtubeId": "8t7YdaigW9U",
+      "thumbnail": "/images/sessions/8t7YdaigW9U.jpg"
+    },
+    {
+      "speakers": "Nicolas Decoster",
+      "title": "WebAssembly ? Web et assembleur ? WTF !",
+      "youtubeId": "1AtmE1JHaZg",
+      "thumbnail": "/images/sessions/1AtmE1JHaZg.jpg"
+    },
+    {
+      "speakers": "Horacio Gonzalez",
+      "title": "Mixité dans le monde des Web Components",
+      "youtubeId": "_LlDG9sKKi8",
+      "thumbnail": "/images/sessions/_LlDG9sKKi8.jpg"
+    },
+    {
+      "speakers": "Logan Mauzaize",
+      "title": "Demain j'arrête le café, je me met au crabe !",
+      "youtubeId": "FTphI0mtVhQ",
+      "thumbnail": "/images/sessions/FTphI0mtVhQ.jpg"
+    },
+    {
+      "speakers": "Alex Danvy",
+      "title": "Azure pour les développeurs",
+      "youtubeId": "RpFCq0KaWlE",
+      "thumbnail": "/images/sessions/RpFCq0KaWlE.jpg"
+    },
+    {
+      "speakers": "Paul Dijou",
+      "title": "Elm, est-ce si bien qu'on le dit",
+      "youtubeId": "BHTgiBGyY8U",
+      "thumbnail": "/images/sessions/BHTgiBGyY8U.jpg"
+    },
+    {
+      "speakers": "Tugdual Grall",
+      "title": "Stream processing avec Apache Flink",
+      "youtubeId": "wdhKfBs_lvI",
+      "thumbnail": "/images/sessions/wdhKfBs_lvI.jpg"
+    },
+    {
+      "speakers": "Boris-Wilfried Nyasse",
+      "title": "A la découverte de Google Flutter et Fuchsia dans l’écosystème Dart",
+      "youtubeId": "TzO5dgm-AVE",
+      "thumbnail": "/images/sessions/TzO5dgm-AVE.jpg"
+    },
+    {
+      "speakers": "Florian Chauveau",
+      "title": "Déploiement automatique d'app iOS et/ou Android",
+      "youtubeId": "f7UD9nCXrS4",
+      "thumbnail": "/images/sessions/f7UD9nCXrS4.jpg"
+    },
+    {
+      "speakers": "Francois Teychene",
+      "title": "L'UX a sauvé mon DevOps",
+      "youtubeId": "Fewiev77RR8",
+      "thumbnail": "/images/sessions/Fewiev77RR8.jpg"
+    },
+    {
+      "speakers": "Didier Girard",
+      "title": "Faire du Machine Learning sans Data Scientist",
+      "youtubeId": "6oYA4tguYUs",
+      "thumbnail": "/images/sessions/6oYA4tguYUs.jpg"
+    },
+    {
+      "speakers": "Frederic Cabestre",
+      "title": "Balade au pays de «Let's Encrypt»",
+      "youtubeId": "o8NYd55Sl2Y",
+      "thumbnail": "/images/sessions/o8NYd55Sl2Y.jpg"
+    },
+    {
+      "speakers": "Mélanie Bats",
+      "title": "Libérée! Délivrée! ou Comment devenir développeuse open source ?",
+      "youtubeId": "mx1aX_69Atw",
+      "thumbnail": "/images/sessions/mx1aX_69Atw.jpg"
+    },
+    {
+      "speakers": "Régis MARIE-JOSEPH",
+      "title": "ES2048",
+      "youtubeId": "YAFRxqz8lrU",
+      "thumbnail": "/images/sessions/YAFRxqz8lrU.jpg"
+    },
+    {
+      "speakers": "Bill Metangmo Tsobze",
+      "title": "Les lois de la physique classique s'appliquent aussi au Big Data !",
+      "youtubeId": "0lLf51o4a_o",
+      "thumbnail": "/images/sessions/0lLf51o4a_o.jpg"
+    },
+    {
+      "speakers": "Damien Cavaillès",
+      "title": "Et après Développeur, chef de projet ?",
+      "youtubeId": "JRXUgIwcPlw",
+      "thumbnail": "/images/sessions/JRXUgIwcPlw.jpg"
+    },
+    {
+      "speakers": "Philippe Charrière & cie",
+      "title": "Apéro fonctionnel",
+      "youtubeId": "o4ueMzhro1o",
+      "thumbnail": "/images/sessions/o4ueMzhro1o.jpg"
+    },
+    {
+      "speakers": "Olivier Flebus",
+      "title": "Big Data avec AWS : notre retour d'expérience sur l'utilisation des services managés",
+      "youtubeId": "4dd-K_fkUx4",
+      "thumbnail": "/images/sessions/4dd-K_fkUx4.jpg"
+    },
+    {
+      "speakers": "Olivier Leplus",
+      "title": "Ici votre commandant de bord, on passe en mode avion !",
+      "youtubeId": "zzLZSM_pOIE",
+      "thumbnail": "/images/sessions/zzLZSM_pOIE.jpg"
+    },
+    {
+      "speakers": "Samia Drappeau",
+      "title": "Interprétabilité des modèles de Machine Learning avec LIME",
+      "youtubeId": "NZ-s1UUKDD0",
+      "thumbnail": "/images/sessions/NZ-s1UUKDD0.jpg"
     }
   ]
 }
