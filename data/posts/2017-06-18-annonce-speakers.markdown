@@ -40,4 +40,4 @@ Pour ceux qui ont soumis des sujets mais n'ont pas encore été pris, la seconde
 
 Pour rappel, nous réservons des places au tarif early bird à toutes les personnes ayant soumis un sujet. Cette année, on a ouvert une track supplémentaire, ce qui porte le nombre de sujet acceptés de 21 à entre 28 et 32 (on a aussi ajouté un format quickie).
 
-Si vous avez des questions vous pouvez nous les envoyer à [devfest@gdgtoulouse.fr](devfest@gdgtoulouse.fr) ou bien sur notre compte Twitter [@DevFestToulouse](https://www.twitter.com/devfesttoulouse).
+Si vous avez des questions vous pouvez nous les envoyer à [contact@devfesttoulouse.fr](contact@devfesttoulouse.fr) ou bien sur notre compte Twitter [@DevFestToulouse](https://www.twitter.com/devfesttoulouse).

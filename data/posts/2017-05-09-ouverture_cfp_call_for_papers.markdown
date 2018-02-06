@@ -40,7 +40,7 @@ Et pas de panique, si votre talk n'est pas accepté, une place au tarif early bi
         <paper-button class="primary" raised>Soumettre un talk</paper-button>
       </a>
 
-Si vous avez des questions vous pouvez nous les envoyer à [devfest@gdgtoulouse.fr](devfest@gdgtoulouse.fr) ou bien sur notre compte Twitter [@DevFestToulouse](https://www.twitter.com/devfesttoulouse).
+Si vous avez des questions vous pouvez nous les envoyer à [contact@devfesttoulouse.fr](contact@devfesttoulouse.fr) ou bien sur notre compte Twitter [@DevFestToulouse](https://www.twitter.com/devfesttoulouse).
 
 
 
