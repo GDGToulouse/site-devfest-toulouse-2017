@@ -1,0 +1,1145 @@
+[
+  {
+    "bio": "I work as a R&D expert, in the field of satellite image processing. I am piloting a small team working on deep learning and cloud aspects within Airbus Defence and Space. Over the past decade, I have been involved in numerous technical problems, all related to the processing of large satellite images. Our main goal is to bring new processing technologies and algorithm into production. It all started with a master in applied mathematics, a PhD and a post doc on image and signal processing.",
+    "company": "Airbus Defence and space",
+    "country": "Toulouse, France",
+    "featured": true,
+    "id": 2317,
+    "name": "Mathias ORTNER",
+    "photoUrl": "/images/speakers/mathias-ortner.png",
+    "shortBio": "I work as a R&D expert, in the field of satellite image processing.",
+    "tags": [
+      "IA"
+    ],
+    "title": "R&D expert"
+  },
+  {
+    "bio": "Creator of traefik.io, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.",
+    "company": "Containous",
+    "country": "Lyon, France",
+    "featured": true,
+    "id": 1142,
+    "name": "Emile Vauge",
+    "photoUrl": "/images/speakers/emile-vauge.png",
+    "shortBio": "Creator of traefik.io, Emile is developer and founder of containo.us.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/emilevauge/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/emilevauge/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Cloud",
+      "Traefik",
+      "Docker"
+    ],
+    "title": "Creator of traefik.io"
+  },
+  {
+    "bio": "Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation. Il a passé 10 ans dans la Silicon Valley, où il a travaillé pour des startups et des grosses sociétés et où il a notamment participé à la rédaction de plusieurs standards des Web Services et des Objets Connectés. Il travaille en tant que consultant et développeur principalement autour du Cloud, des Applications Web et des Objets Connectés. Il accompagne également des startups dans le développement de prototypes/POCs techniques et en faisant le lien entre les fondateurs et les développeurs. Il est GDE Cloud (Google Developer Expert) et certifié Google Cloud Platform Qualified Systems Operations Professional. Il est aussi le co-fondateur du GDG Paris, du GDG Cloud Paris et de StartupVillage (http://www.startupvillage.fr)",
+    "company": "Alto Labs",
+    "country": "Paris, France",
+    "featured": true,
+    "id": 236,
+    "name": "Alain Regnier",
+    "photoUrl": "/images/speakers/alain-regnier.jpg",
+    "shortBio": "Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/altolabs/",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Cloud",
+      "Kubernetes",
+      "GCE"
+    ],
+    "title": "Architecte Technique"
+  },
+  {
+    "bio": "Développeuse Java passionnée, je suis particulièrement intéressée par les pratiques agiles et le bien-être au travail.",
+    "company": "CodinGame",
+    "country": "Montpellier, France",
+    "featured": true,
+    "id": 1136,
+    "name": "Charlotte Cavalier",
+    "photoUrl": "/images/speakers/charlotte-cavalier.jpg",
+    "shortBio": "Développeuse Java passionnée, je suis particulièrement intéressée par les pratiques agiles et le bien-être au travail.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/cavalierch/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/CCavalier/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Languages",
+      "Functional Programming"
+    ],
+    "title": "Développeuse Java passionnée"
+  },
+  {
+    "bio": "Tech Evangelist + CSO @Clever_Cloud - Eleveur de bots - Golo tech-evangelist-dev-relation-advocate :p @TypeUnsafe - Geek officiel d'entreprise - @ScalaIO_FR member",
+    "company": "Clever Cloud",
+    "country": "Lyon, France",
+    "featured": true,
+    "id": 1772,
+    "name": "Philippe Charrière",
+    "photoUrl": "/images/speakers/philippe-charriere.jpg",
+    "shortBio": "Eleveur de bots - Golo tech-evangelist-dev-relation-advocate :p @TypeUnsafe - Geek officiel d'entreprise",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/k33g_org/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/k33g/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Vert.x",
+      "GoloLang",
+      "Emoji Artist 😎"
+    ],
+    "title": "Golo tech-evangelist-dev-relation-advocate"
+  },
+  {
+    "bio": "ComputerScientist[Freelance]",
+    "company": "Freelance",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 1773,
+    "name": "Didier Plaindoux",
+    "photoUrl": "/images/speakers/didier-plaindoux.jpeg",
+    "shortBio": "ComputerScientist[Freelance]",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/dplaindoux",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Functional Programming",
+      "Swift"
+    ],
+    "title": "ComputerScientist[Freelance]"
+  },
+  {
+    "bio": "Architecte et développeur passionné. A travaillé comme architecte, CTO et leader technique dans plusieurs startups. Expert technique multi-compétences : systèmes scalables, NoSQL, moteurs de recherche, mais aussi front-end, devops et Iot. Bref, full-stack. Membre de la fondation Apache.",
+    "company": "Elastic",
+    "country": "Toulouse, France",
+    "featured": true,
+    "id": 205,
+    "name": "Sylvain Wallez",
+    "photoUrl": "/images/speakers/sylvain-wallez.png",
+    "shortBio": "Expert technique multi-compétences : systèmes scalables, NoSQL, moteurs de recherche, mais aussi front-end, devops et Iot.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/bluxte/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/swallez/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Scala",
+      "Agile",
+      "Méthodologie"
+    ],
+    "title": "Architecte et développeur passionné"
+  },
+  {
+    "bio": "Hacker & DockerCaptain",
+    "company": "CloudBees",
+    "country": "Rennes, France",
+    "featured": true,
+    "id": 2,
+    "name": "Nicolas De Loof",
+    "photoUrl": "/images/speakers/nicolas-de-loof.jpg",
+    "shortBio": "Hacker & DockerCaptain",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ndeloof/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/ndeloof/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "WTF",
+      "Shrödinger",
+      "Quantic computing",
+      "Jenkins"
+    ],
+    "title": "Hacker & DockerCaptain"
+  },
+  {
+    "bio": "Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate that spends most of his time working on production apps, helping developers write better code and provide training on mastering Web technologies (Angular 2+, Polymer, PWA, Web Components...). He enjoys writing technical articles, meeting developers at events, speaking at conferences and contributing to open source projects. Wassim loves the Web Platform and works hard to move it forward",
+    "company": "SFEIR",
+    "country": "Paris, France",
+    "featured": true,
+    "id": 1222,
+    "name": "Wassim Chegham",
+    "photoUrl": "/images/speakers/wassim-chegham.jpg",
+    "shortBio": "Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate that spends most of his time working on production apps",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/manekinekko/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/manekinekko/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "GDE",
+      "Angular",
+      "Cloud",
+      "Chatbot"
+    ],
+    "title": "Developer Advocate"
+  },
+  {
+    "bio": "Consultant et Formateur Web chez Zenika Lille depuis avril 2015. Je suis spécialisé dans AngularJS / Angular 2 / TypeScript et l'Accessibilité Web. Speaker à ses heures perdues. Aime également les bières (et oui quand on vient de Lille c'est normal...), le Jazz et la Domotique. Plusieurs expériences en tant que conférencier, notamment depuis septembre 2015 autour du sujet Angular2. - ESLint au Jug Summer Camp et ChtiJS - Angular 2 : ChtiJUG, LyonJS, GDG Paris, GDG Nantes, Meetup AngularJS Grenoble, Devoxx, RivieraDev, Bdx.io, DevFest Nantes, Codeurs en Seine",
+    "company": "Zenika",
+    "country": "Lille, France",
+    "featured": true,
+    "id": 227,
+    "name": "Emmanuel DEMEY",
+    "photoUrl": "/images/speakers/emmanuel-demey.jpg",
+    "shortBio": "Consultant et Formateur Web chez Zenika Lille depuis avril 2015.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/EmmanuelDemey/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/Gillespie59/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Web",
+      "Inferno",
+      "Marko",
+      "Preact"
+    ],
+    "title": "Consultant et Formateur Web"
+  },
+  {
+    "bio": "Le jour, Guillaume Laforge est Developer Advocate chez Google, sur les solutions cloud, et de nuit, il reprends sa casquette de contributeur au projet Apache Groovy. Guillaume est également un des membres du podcast Les Cast Codeurs",
+    "company": "Google",
+    "country": "Paris, France",
+    "featured": true,
+    "id": 1028,
+    "name": "Guillaume Laforge",
+    "photoUrl": "/images/speakers/guillaume-laforge.jpeg",
+    "shortBio": "Developer Advocate chez Google.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/glaforge/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/glaforge/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Cloud",
+      "Chatbot",
+      "Groovy"
+    ],
+    "title": "Developer Advocate"
+  },
+  {
+    "bio": "Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a une quinzaine d'années déjà. Passionné d'informatique, dans laquelle il est tombé depuis tout petit, il a découvert Java en 1997 et depuis il n'a pas arrêté de bosser autour. Après quelques années comme architecte technique au Crédit Mutuel Arkea, Horacio travaille actuellement à Cityzen Data, éditeurs de Warp10, plateforme open source pour les données de capteurs. Il est aussi leader et cofondateur du FinistJUG, le JUG francophone le plus proche de la Silicon Valley. Passionné par le développement web et tout ce qui gravite autour des composants web, Horacio a été nommé Google Developer Expert (GDE) en Web Technologies et Polymer.",
+    "company": "Cityzen Data",
+    "country": "Brest, France",
+    "featured": true,
+    "id": 120,
+    "name": "Horacio Gonzalez",
+    "photoUrl": "/images/speakers/horacio-gonzalez.jpg",
+    "shortBio": "Leader et cofondateur du FinistJUG",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/LostInBrittany/",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/LostInBrittany/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Web",
+      "Polymer",
+      "Web Components",
+      "Mixité"
+    ],
+    "title": "GDE Polymer"
+  },
+  {
+    "bio": "Quand des développeurs rencontrent un dessinateur, ça donne un blog de dessins, d’anecdotes et d’actus vu par les codeurs ! Les développeurs, on le sait, aiment beaucoup lire les blogs de dessins :). Ça parle des codeurs, de leur quotidien, des gens qui bossent avec nous, des clients, des technos , des chats et des news aussi",
+    "company": "CommitStrip, KRDS, Oh my Bot!",
+    "country": "France",
+    "featured": false,
+    "id": 1,
+    "name": "Thomas Gx",
+    "photoUrl": "/images/speakers/thomas-gx.jpg",
+    "shortBio": "Entrepreneur dans l'automatisation et les médias sociaux. Co-fondateur de KRDS & Oh My Bot!. Fondateur de CommitStrip",
+    "tags": [
+      "CommitStrip"
+    ],
+    "title": "R&D expert"
+  },
+  {
+    "bio": "Etienne Issartial est un dessinateur et auteur spécialisé dans la bande-dessinée au format strip. Issu des Beaux-arts il s'échappe du circuit académique en passant par le dessin de presse et l'enseignement. En 2012, il fonde CommitStrip avec son ami Thomas Guenoux (Co-founder KRDS) et propose chaque jour un strip relatant avec humour le quotidien des developpeurs. Aujourd'hui, CommitStrip est un média majeur dans l'univers du développement et véritablement présent dans l'évolution du secteur (conférences internationales, partenariats...)",
+    "company": "CommitStrip",
+    "country": "France",
+    "featured": false,
+    "id": 3,
+    "name": "Etienne Issartial",
+    "photoUrl": "/images/speakers/etienne-issartial.jpg",
+    "shortBio": "Etienne Issartial est un dessinateur et auteur spécialisé dans la bande-dessinée au format strip",
+    "tags": [
+      "CommitStrip"
+    ],
+    "title": "Dessinateur"
+  },
+  {
+    "bio": "Front End CTO @sfeir GDE @google HTML5, JS, Web Components, Angular, Polymer, @bestofwebconf organizer...",
+    "company": "Sfeir",
+    "country": "Brest, France",
+    "featured": false,
+    "id": 121,
+    "name": "Cyril Balit",
+    "photoUrl": "/images/speakers/cyril-balit.jpeg",
+    "shortBio": "Front End CTO chez SFEIR",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/cbalit",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Web",
+      "Polymer",
+      "Web Components",
+      "Mixité"
+    ],
+    "title": "GDE Polymer"
+  },
+  {
+    "bio": "Machine Learner au sein de l'équipe AI de Continental Digital Services France.",
+    "company": "Continental",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 2823,
+    "name": "Samia Drappeau",
+    "photoUrl": "/images/speakers/samia-drappeau.jpg",
+    "shortBio": "Machine Learner au sein de l'équipe AI de Continental Digital Services France",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/samiadrappeau",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/samastro/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "bio": "Data Scientist chez Continental Digital Services France.",
+    "company": "Continental",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 2824,
+    "name": "Florent Pajot",
+    "photoUrl": "/images/speakers/florent-pajot.jpg",
+    "shortBio": "Data Scientist chez Continental Digital Services France",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/florentpajot/?ppe=1",
+        "name": "LinkedIn"
+      }
+    ],
+    "tags": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "bio": "My day to day my mission is to help developers to create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies !",
+    "country": "Paris, France",
+    "featured": false,
+    "id": 255,
+    "name": "Olivier Leplus",
+    "photoUrl": "/images/speakers/olivier-leplus.jpeg",
+    "shortBio": "My day to day my mission is to help developers create successful and quality apps",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/olivierleplus",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/tagazok/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Web",
+      "PWA"
+    ]
+  },
+  {
+    "bio": "Web developper doing... you know... stuff with a keyboard and strange characters on the big internet using coffee as fuel and spending too much time waiting for something to compile.",
+    "company": "Nomalab",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 119,
+    "name": "Paul Dijou",
+    "photoUrl": "/images/speakers/paul-dijou.jpeg",
+    "shortBio": "Web lover around the world",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/paul_dijou",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/pauldijou/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "bio": "Architecte Big Data @ Continental Digital Services France (CDSF). Agiliste convaincu et passionné. 20 ans d'expérience avec une combinaison de développement, de conseil et de business development. En ce moment je m'intéresse particulièrement aux technologies du Big Data, de l'IoT et du Cloud. Avec les équipes de CDSF qui grandissent en permanence nous travaillons à imaginer, développer et opérer de nouveaux services autour de la voiture connectée. Rejoignez-nous!",
+    "company": "Continental",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 2691,
+    "name": "Olivier Flebus",
+    "photoUrl": "/images/speakers/olivier-flebus.jpeg",
+    "shortBio": "Architecte Big Data @ Continental Digital Services France (CDSF). Agiliste convaincu et passionné. ",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/olivierflebus",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Agilité",
+      "Cloud",
+      "AWS"
+    ]
+  },
+  {
+    "bio": "Ingénieure développement Big Data chez Continental Digital Services France.",
+    "company": "Continental",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 2692,
+    "name": "Fanny Martin",
+    "photoUrl": "/images/speakers/fanny-martin.jpg",
+    "shortBio": "Ingénieure développement Big Data chez Continental Digital Services France.",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/martinfanny/",
+        "name": "LinkedIn"
+      }
+    ],
+    "tags": [
+      "Agilité",
+      "Cloud",
+      "AWS"
+    ]
+  },
+  {
+    "bio": "Continental Digital Services France.",
+    "company": "Continental",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 2693,
+    "name": "Matthieu Bernardin",
+    "photoUrl": "/images/speakers/matthieu-bernardin.png",
+    "shortBio": "Continental Digital Services France.",
+    "tags": [
+      "Agilité",
+      "Cloud",
+      "AWS"
+    ]
+  },
+  {
+    "bio": "R&D Data engineer - Passionate about designing complex distributed sytems :).",
+    "company": "BULL SAS",
+    "country": "Grenoble, France",
+    "featured": false,
+    "id": 2805,
+    "name": "Bill Metangmo Tsobze",
+    "photoUrl": "/images/speakers/bill-metangmo-tsobze.jpg",
+    "shortBio": "R&D Data engineer - Passionate about designing complex distributed sytems :).",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/BillMetangmo",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Big-Data"
+    ]
+  },
+  {
+    "bio": "Développeur, tendance «software craftman». Depuis longtemps attiré par les langages et leur mise en œuvre. Grand amateur de programmation fonctionnelle, même quand ce n'était pas encore cool. Curieux des systèmes, surtout s'ils sont distribués.",
+    "company": "EasyMile",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 189,
+    "name": "Frederic Cabestre",
+    "photoUrl": "/images/speakers/frederic-cabestre.png",
+    "shortBio": "Développeur, tendance «software craftman». Depuis longtemps attiré par les langages et leur mise en œuvre.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/fcabestre",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/fcabestre/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Sécurité",
+      "Craftman"
+    ]
+  },
+  {
+    "bio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
+    "company": "SFEIR",
+    "country": "Paris, France",
+    "featured": false,
+    "id": 282,
+    "name": "Didier Girard",
+    "photoUrl": "/images/speakers/didier-girard.jpg",
+    "shortBio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/didiergirard",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Cloud",
+      "GCP",
+      "GDE"
+    ]
+  },
+  {
+    "bio": "Devops la journée, JUG Leader le soir sur Montpellier, j'aime parler et discuter de developpements et surtout de Docker. Ancien développeur (Java/Clojure/Python) et gestionnaire de build, j'ai passé le cap vers le Devops et me focus notamment Docker sur lequel j'aime tester de nouvelles choses et mettre en place des services pour les équipes avec lesquelles je travaille.",
+    "company": "TabMo",
+    "country": "Montpellier, France",
+    "featured": false,
+    "id": 191,
+    "name": "Francois Teychene",
+    "photoUrl": "/images/speakers/francois-teychene.jpg",
+    "shortBio": "JUG Leader @montpellierjug, Docker enthusiast & speaker, Development passionate",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/fteychene",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/fteychene/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Devops",
+      "UX"
+    ]
+  },
+  {
+    "bio": "Product Owner chez TabMo.",
+    "company": "TabMo",
+    "country": "Montpellier, France",
+    "featured": false,
+    "id": 192,
+    "name": "Estelle Landry",
+    "photoUrl": "/images/speakers/estelle-landry.jpg",
+    "shortBio": "Product Owner chez TabMo.",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/estelle-landry-61866b71/?ppe=1",
+        "name": "LinkedIn"
+      }
+    ],
+    "tags": [
+      "Devops",
+      "UX"
+    ]
+  },
+  {
+    "bio": "Après être passé par une SSII et une startup j'ai créé avec plusieurs collègues et amis Code-Troopers à Tours. Depuis plus de 3 ans nous travaillons en tant que freelance sur les projets et les thèmes qui nous intéressent. Pour ma part c'est le développement Android qui occupe mes journées. La qualité du code et l'efficacité au travail sont les deux choses que j'ai apprises très tôt et que j'essaie d'appliquer au mieux au quotidien. Le partage reste l'un des meilleurs moyens d'apprendre c'est pour cela que je donne des cours à Polytech'Tours et que je cogère le GDG Tours.",
+    "company": "Code-Troopers",
+    "country": "Tours, France",
+    "featured": false,
+    "id": 2652,
+    "name": "Florian Chauveau",
+    "photoUrl": "/images/speakers/florian-chauveau.jpeg",
+    "shortBio": "Agile Java Developer - Membre des @CodeTroopers et organisateur du GDG Tours",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/florianchauveau",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "IOS",
+      "Android",
+      "Devops"
+    ]
+  },
+  {
+    "bio": "Après un passage par une start-up qui n'a malheureusement pas su déployer ses ailes, Cedric a co-fondé Code-Troopers : un studio de développement agile basé à Tours. À côté de cette activité principale, il a aussi participé à plusieurs ouvrages chez Packt Publishing et a co-fondé le Google Developer Group de Tours. Il a aussi lancé l'OpenDeviceLab de Tours.",
+    "company": "Code-Troopers",
+    "country": "Tours, France",
+    "featured": false,
+    "id": 2653,
+    "name": "Cédric Gatay",
+    "photoUrl": "/images/speakers/cedric-gatay.jpg",
+    "shortBio": "Membre des @CodeTroopers et organisateur du GDG Tours",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Cedric_Gatay",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "IOS",
+      "Android",
+      "Devops"
+    ]
+  },
+  {
+    "bio": "Developer and self-entrereneur with a big interest for innovation. He actualy works as Agile Devops for a software publisher company and also worked as IT architect & CTO for few startups at Toulouse. Passionate technical multi-skills",
+    "company": "MIPIH",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 351,
+    "name": "Boris-Wilfried Nyasse",
+    "photoUrl": "/images/speakers/boris-wilfried-nyasse.jpg",
+    "shortBio": "#Dad & Passionate Agile DevOps/ Continuous Learner #web #softwareDev #devops #startup / @pick_school Co-Founder",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/bwnyasse",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/bwnyasse/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Dart",
+      "Flutter",
+      "Fuchsia"
+    ]
+  },
+  {
+    "bio": "Eclectic Developer",
+    "company": "",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 352,
+    "name": "Kévin Segaud",
+    "photoUrl": "/images/speakers/kevin-segaud.jpg",
+    "shortBio": "Eclectic Developer ",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/kevin_segaud",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Dart",
+      "Flutter",
+      "Fuchsia"
+    ]
+  },
+  {
+    "bio": "Tugdual Grall, est Chief Technical Evangelist EMEA chez MapR. Il travaille avec les clients et les communautés de développeurs européennes, pour faciliter l’adoption de MapR, Hadoop et NoSQL. Avant de travailler chez MapR, “Tug”, était Technical Evangelist chez MongoDB et Couchbase. Tug a travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform Java/JavaEE d’Oracle. Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise",
+    "company": "MapR",
+    "country": "Nantes, France",
+    "featured": false,
+    "id": 286,
+    "name": "Tugdual Grall",
+    "photoUrl": "/images/speakers/tugdual-grall.jpeg",
+    "shortBio": "Technical Evangelist @MapR Big Data / NoSQL / Streaming | @nantesjug leader | Slow Triathlete @resultri | Windsurfer",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "http://twitter.com/tgrall",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/tgrall",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "BigData"
+    ]
+  },
+  {
+    "bio": "Partage sa passion pour le développement. Amateur de robots et de pommes. Promoteur de l'informatique pour tous. Spécialiste de l'Internet of Things. Evangéliste chez Microsoft.",
+    "company": "Microsoft",
+    "country": "France",
+    "featured": false,
+    "id": 2548,
+    "name": "Alex Danvy",
+    "photoUrl": "/images/speakers/alex-danvy.jpg",
+    "shortBio": "Human|Robot? DaftPunk! I'm a French working @Microsoft #IoT addict, software lover, technology enthusiast #cloud #windows #android #ios",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/danvy",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/danvy",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Azure",
+      "IoT"
+    ]
+  },
+  {
+    "bio": "Amateur de Java avant le diplôme, j'ai distribué mes conseils lors de mes missions (expert technique, dev leader) et sur les forums. Notamment sur Developpez.com, sur lequel je fais partie de l'équipe Java à la fois en tant que modérateur mais aussi rédacteur.",
+    "company": "MonkeyPatch",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 2497,
+    "name": "Logan Mauzaize",
+    "photoUrl": "/images/speakers/logan-mauzaize.jpeg",
+    "shortBio": "Amateur de Java avant le diplôme, j'ai distribué mes conseils lors de mes missions (expert technique, dev leader) et sur les forums",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/loganmzz",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/loganmzz",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Rust"
+    ]
+  },
+  {
+    "bio": "Software Developer",
+    "company": "",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 2498,
+    "name": "Alessio Coltellacci",
+    "photoUrl": "/images/speakers/alessio-coltellacci.jpg",
+    "shortBio": "Software Developer",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/lightplay8",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Rust"
+    ]
+  },
+  {
+    "bio": "Olivier est CTO chez Greenspector. Il aime les technologies mais surtout les optimiser. En particulier sur Android et l'embarqué. Il est fortement engagé dans les actions de sensibilisation à l'efficience et l'éco-conception logicielle comme le Geen Code Lab Challenge. Speaker a Devoxx, Android Maker, Breizhcamp...",
+    "company": "Greenspector",
+    "country": "Nantes, France",
+    "featured": false,
+    "id": 1417,
+    "name": "Olivier Philippot",
+    "photoUrl": "/images/speakers/olivier-philippot.jpg",
+    "shortBio": "CTO of @green_spector efficiency and eco-design of software #greenit #ecodesign #perfmatters",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/simplygreenit",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Green"
+    ]
+  },
+  {
+    "bio": "Alexis est ingénieur solution chez JFrog, il participe aux activités liées à Artifactory, comme par exemple l'intégration d'Artifactory sur Apache Mesos. Dans l'épisode précédent, Alexis a été Ingénieur Software Craftsman pendant 11 ans dans le domaine de l'éducation sur des projets Java, Grails, Javascript mais a trempé aussi dans les projets DevOps.",
+    "company": "JFrog",
+    "country": "World",
+    "featured": false,
+    "id": 224,
+    "name": "Alexis Tual",
+    "photoUrl": "/images/speakers/alexis-tual.jpg",
+    "shortBio": "Alexis est ingénieur solution chez JFrog, il participe aux activités liées à Artifactory, comme par exemple l'intégration d'Artifactory sur Apache Mesos",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/alex_tual",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/alextu",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Cloud"
+    ]
+  },
+  {
+    "bio": "Développeur Java/JEE pour l'industrie toulousaine depuis une dizaine d'années, plutôt branché trucs coté serveur (systèmes distribués, middleware...). J'ai repris goût pour le \"frontend\" grâce à Android. Depuis que je suis à ekito, je travaille beaucoup sur le dev mobile Android, tout en gardant un pied dans le back. En 2015 je découvre Kotlin, qui me permet d'arrêter d'écrire du Java et de mieux appréhender la programmation réactive. Kotlin est également le sujet central de mes présentations depuis 2016.",
+    "company": "ekito",
+    "country": "Toulouse, France",
+    "featured": false,
+    "id": 275,
+    "name": "Arnaud Giuliani",
+    "photoUrl": "/images/speakers/arnaud-giuliani.jpg",
+    "shortBio": "Developer & Speaker -- Kotlin lover, do Mobile Apps & Backend stuffs  --  work at ekito",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/arnogiu",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/arnaudgiuliani",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Kotlin"
+    ]
+  },
+  {
+    "bio": "Architecte logiciel frontend au sein d'une ESN rennaise, j'évolue entre architecture de projets web, formations, animations techniques, support client et expertise technique. Passionné par le \"grand\" domaine du développement web frontend, j'affectionne particulièrement coder en (Type||Java)script, débugger HTML5, découvrir la capacité grandissante du navigateur à se rapprocher des capteurs (GPS, bluetooth, etc...), et participer à des projets open-source.",
+    "company": "SII",
+    "country": "Rennes, France",
+    "featured": false,
+    "id": 810,
+    "name": "Vincent Ogloblinsky",
+    "photoUrl": "/images/speakers/vincent-ogloblinsky.jpg",
+    "shortBio": "Frontend architect @sii_ouest • Trainer • Speaker • Father (👶👶👶) • In ❤ of (Type || Java)Script, Angular, HTML5 • Brittany - Rennes - France",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/vogloblinsky",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/vogloblinsky",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "bio": "# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
+    "company": "Viseo",
+    "country": "France",
+    "featured": false,
+    "id": 2417,
+    "name": "Alexandre Delattre",
+    "photoUrl": "/images/speakers/alexandre-delattre.jpeg",
+    "shortBio": "Ingénieur logiciel Fullstack à 31 ans et fort de 7 ans d'expérience dans le développement logiciel",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/minegraphite",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Android",
+      "iOS",
+      "Ionic",
+      "Java",
+      "Scala",
+      "NodeJS",
+      "TypeScript",
+      "AngularJS",
+      "Angular"
+    ]
+  },
+  {
+    "bio": "Développeur et Entrepreneur, je n'accepte pas que 71% des développeurs français ne soient pas heureux de se lever le matin pour aller bosser. Du coup, j'ai construit une entreprise qui aide les développeurs à trouver leur job de rêve et ça me rend heureux.",
+    "company": "JeChercheUnDev.fr",
+    "featured": false,
+    "id": 840,
+    "name": "Damien Cavaillès",
+    "photoUrl": "/images/speakers/damien-cavailles.jpg",
+    "shortBio": "Disrupting the way you hire a developer at @jechercheundev Freelance Mobile Dev, iOS & Android. Startup Weekend Facilitator.",
+    "country": "Lille, France",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/TheDamfr",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/jechercheundev/",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "bio": "After spending 10+ years of my life coding, I started to feel that the problems in software development were not in the code and tryed finding solution elsewhere. Since I started doing that, I started to love coding again :)",
+    "company": "freelance",
+    "featured": false,
+    "id": 2357,
+    "name": "Fabien Tregan",
+    "photoUrl": "/images/speakers/fabien-tregan.jpeg",
+    "shortBio": "Not trying to reach perfection. Just more or less walking toward it, trying to enjoy the landscape meanwhile.",
+    "country": "Toulouse, France",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ftregan",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Bois",
+      "WTF 🤣"
+    ]
+  },
+  {
+    "bio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse with Sirius like UML Designer. I am also committer for 2 Eclipse projects: EEF and Sirius. In my free time I am interested in Arduino stuff and contribute some Eclipse plugins for cross compilation like the Buildroot Eclipse plugin. I am also a free software activist who has organized and participated in free software events in the Toulouse area.",
+    "company": "Obeo",
+    "featured": false,
+    "id": 2742,
+    "name": "Mélanie Bats",
+    "photoUrl": "/images/speakers/melanie-bats.jpeg",
+    "shortBio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse...",
+    "country": "Toulouse, France",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/melaniebats",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/mbats",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Eclipse"
+    ]
+  },
+  {
+    "bio": "Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead. Elle aime particulièrement travailler sur les problématiques server side.\nAncienne étudiante de l'université Paris-Est Marne la Vallée, elle y enseigne à présent le java.\nElles est membre actif de Duchess France, association ayant pour but de donner de la visibilité aux femmes qui ont des métiers techniques, elle participe régulièrement à l'organisation d’événements techniques.",
+    "company": "Casden",
+    "featured": false,
+    "id": 333,
+    "name": "Pauline Iogna",
+    "photoUrl": "/images/speakers/pauline-iogna.jpg",
+    "shortBio": "Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead",
+    "country": "Paris, France",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/pauline_io",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Java",
+      "Duchess"
+    ]
+  },
+  {
+    "bio": "Dev mobiweb, curieux de tout !",
+    "company": "SII BREST",
+    "featured": false,
+    "id": 819,
+    "name": "Régis MARIE-JOSEPH",
+    "photoUrl": "/images/speakers/regis-marie-joseph.jpg",
+    "shortBio": "Dev mobiweb, curieux de tout !",
+    "country": "Brest, France",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/arawak971",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Web",
+      "Mobile"
+    ]
+  },
+  {
+    "bio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile. Éclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur.",
+    "company": "Freelance",
+    "featured": false,
+    "id": 207,
+    "name": "Gilles Debunne",
+    "photoUrl": "/images/speakers/gilles-debunne.jpeg",
+    "shortBio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile.",
+    "country": "Toulouse, France",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/gdebunne",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/GillesDebunne",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Mobile",
+      "Angular",
+      "React"
+    ]
+  },
+  {
+    "id": 2288,
+    "name": "Igor Laborie",
+    "photoUrl": "/images/speakers/igor-laborie.jpg",
+    "company": "MonkeyPatch",
+    "bio": "Développeur passionné depuis + de 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime aussi des rdv techniques au travers de ma société ou dans des meetings comme le Toulouse JUG, Software Craftsmanship Toulouse.",
+    "shortBio": "Développeur passionné depuis + de 15 ans. Expert dans les technos Java et Web",
+    "country": "Toulouse, France",
+    "featured": false,
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ilaborie",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/ilaborie",
+        "name": "GitHub"
+      }
+    ],
+    "tags": [
+      "Java",
+      "CSS",
+      "Web"
+    ]
+  },
+  {
+    "id": 2545,
+    "name": "Nicolas Decoster",
+    "photoUrl": "/images/speakers/nicolas-decoster.jpg",
+    "company": "Magellium",
+    "bio": "Informaticien curieux depuis 35 ans, de métier depuis 20 ans (principalement dans le spatial). Non spécialiste touche à tout : du développement logiciel à l'étude scientifique, du développement d'algorithmes de traitement à la mise en œuvre de systèmes, de la programmation en C++ ou Python à l'utilisation des technos Web, de la petite appli en ligne de commande aux IHM ou aux systèmes distribués. Travaille actuellement chez Magellium sur une étude CNES sur l'utilisation de WebAssembly pour la valorisation des données d'observation de la terre.",
+    "shortBio": "Developer for science and other stuff, work for Magellium",
+    "country": "Toulouse, France",
+    "featured": false,
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/nnodot",
+        "name": "Twitter"
+      }
+    ],
+    "tags": [
+      "Javascript",
+      "C++",
+      "Web"
+    ]
+  }
+]

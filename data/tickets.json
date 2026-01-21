@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "currency": "€",
+      "ends": "14 Juin",
+      "info": "30 premières places",
+      "name": "Blind Bird",
+      "price": 30,
+      "soldOut": true,
+      "starts": "9 Mai"
+    },
+    {
+      "currency": "€",
+      "ends": "21 Septembre",
+      "info": "Limité a 70 places",
+      "name": "Early Bird",
+      "price": 40,
+      "soldOut": true,
+      "starts": "14 Juin"
+    },
+    {
+      "currency": "€",
+      "ends": "21 Septembre",
+      "name": "Normal",
+      "price": 50,
+      "soldOut": true,
+      "starts": "14 Juin"
+    }
+  ],
+  "url": "http://bit.ly/devfesttoulouse-2017-billetterie"
+}

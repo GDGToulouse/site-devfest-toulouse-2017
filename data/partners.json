@@ -1,0 +1,260 @@
+[
+  {
+    "logos": [
+      {
+        "logoUrl": "../images/partners/continental.png",
+        "name": "Continental",
+        "url": "http://www.continental-corporation.com",
+        "width": 170
+      },
+      {
+        "logoUrl": "https://2016.devfesttoulouse.fr/images/partners/TLSE_METROPOLE.jpg",
+        "name": "Toulouse Métropole",
+        "url": "http://www.toulouse-metropole.fr/",
+        "width": 170
+      }
+    ],
+    "title": "Platinium"
+  },
+  {
+    "logos": [
+      {
+        "logoUrl": "../images/partners/insidegroup.jpg",
+        "name": "Inside Group",
+        "url": "https://insidegroup.fr/fr/",
+        "width": 170
+      },
+      {
+        "logoUrl": "../images/partners/JFrog.png",
+        "name": "JFrog",
+        "url": "https://www.jfrog.com/"
+      },
+      {
+        "logoUrl": "../images/partners/viseo.png",
+        "name": "Viseo",
+        "url": "http://www.viseo.com/fr"
+      },
+      {
+        "logoUrl": "../images/partners/cirruseo.png",
+        "name": "Cirruséo",
+        "url": "https://www.cirruseo.com/",
+        "width": 170
+      },
+      {
+        "logoUrl": "../images/partners/palo-it.png",
+        "name": "Palo IT",
+        "url": "http://fr.palo-it.com/",
+        "width": 150
+      },
+      {
+        "logoUrl": "../images/partners/onepoint.png",
+        "name": "Onepoint",
+        "url": "https://www.groupeonepoint.com/#",
+        "width": 150
+      },
+      {
+        "logoUrl": "../images/partners/gfi.png",
+        "name": "Gfi",
+        "url": "http://www.gfi.world/fr/",
+        "width": 100
+      },
+      {
+        "logoUrl": "../images/partners/mobiyo.png",
+        "name": "Mobiyo",
+        "url": "http://www.mobiyo.com",
+        "width": 100
+      },
+      {
+        "logoUrl": "../images/partners/airbus.png",
+        "name": "Airbus",
+        "url": "http://www.airbus.com/",
+        "width": 150
+      }
+    ],
+    "title": "Or"
+  },
+  {
+    "logos": [
+      {
+        "logoUrl": "../images/partners/toptal.png",
+        "name": "Toptal",
+        "url": "http://toptal.com/top-3-percent?utm_source=devfesttoulouseFR&utm_medium=logo&utm_campaign=sponsorships#select-just-supreme-hackers"
+      },
+      {
+        "logoUrl": "../images/partners/livingobjects.png",
+        "name": "Living Objects",
+        "url": "http://livingobjects.com/"
+      },
+      {
+        "logoUrl": "https://www.squad.fr/static/images/theme/logo_blue.png",
+        "name": "Squad",
+        "url": "https://www.squad.fr"
+      },
+      {
+        "logoUrl": "https://devfesttoulouse.fr/images/partners/docdoku.png",
+        "name": "DocDoku",
+        "url": "https://www.docdoku.com/"
+      },
+      {
+        "logoUrl": "../images/partners/geosys.jpg",
+        "name": "Geosys",
+        "url": "http://www.geosys.com/fr/"
+      },
+      {
+        "logoUrl": "../images/partners/sigfox.png",
+        "name": "Sigfox",
+        "url": "http://sigfox.com/"
+      },
+      {
+        "logoUrl": "../images/partners/pros-logo.svg",
+        "name": "Pros",
+        "url": "http://www.pros.com"
+      },
+      {
+        "logoUrl": "../images/partners/lyra.png",
+        "name": "Lyra Network",
+        "url": "http://www.lyra-network.com"
+      },
+      {
+        "logoUrl": "../images/partners/google.svg",
+        "name": "Google",
+        "url": "https://www.google.com/"
+      }
+    ],
+    "title": "Argent"
+  },
+  {
+    "logos": [
+      {
+        "logoUrl": "../images/partners/occitech.png",
+        "name": "Occitech",
+        "url": "https://www.occitech.fr/",
+        "width": 170
+      },
+      {
+        "logoUrl": "../images/partners/adveez.png",
+        "name": "Adveez",
+        "url": "http://www.adveez.fr/",
+        "width": 170
+      },
+      {
+        "logoUrl": "../images/partners/logo-Taleez-300x300.png",
+        "name": "Taleez",
+        "url": "https://taleez.com/r/#/app/home",
+        "width": 70
+      },
+      {
+        "logoUrl": "../images/partners/cnes.jpg",
+        "name": "CNES",
+        "url": "https://cnes.fr/fr",
+        "width": 70
+      },
+      {
+        "logoUrl": "../images/partners/FullSave.png",
+        "name": "FullSave",
+        "url": "https://www.fullsave.com",
+        "width": 70
+      },
+      {
+        "logoUrl": "../images/partners/MonkeyPatch.jpg",
+        "name": "MonkeyPatch",
+        "url": "http://www.monkeypatch.io",
+        "width": 170
+      },
+      {
+        "logoUrl": "../images/partners/saagie.png",
+        "name": "Saagie",
+        "url": "https://www.saagie.com/fr",
+        "width": 70
+      }
+    ],
+    "title": "Soutien"
+  },
+  {
+    "logos": [
+      {
+        "logoUrl": "../images/partners/logo_programmez.svg",
+        "name": "Programmez! magazine",
+        "url": "http://www.programmez.com/",
+        "width": 170
+      },
+      {
+        "logoUrl": "../images/partners/cpu.png",
+        "name": "CPU",
+        "url": "http://cpu.pm",
+        "width": 170
+      }
+    ],
+    "title": "Médias"
+  },
+  {
+    "logos": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/809415039086104576/cHNQxOPv.jpg",
+        "name": "GDG Taug",
+        "url": "http://www.meetup.com/fr-FR/Toulouse-Android-User-Group/"
+      },
+      {
+        "logoUrl": "https://2016.devfesttoulouse.fr/images/partners/tds.jpeg",
+        "name": "Toulouse Data Science",
+        "url": "http://www.meetup.com/fr-FR/Tlse-Data-Science/"
+      },
+      {
+        "logoUrl": "https://2016.devfesttoulouse.fr/images/partners/toulouse_jug.png",
+        "name": "Toulouse JUG",
+        "url": "http://toulousejug.org/"
+      },
+      {
+        "logoUrl": "https://2016.devfesttoulouse.fr/images/partners/logoDuchessFrance.svg",
+        "name": "Duchess France",
+        "url": "http://www.duchess-france.org/"
+      },
+      {
+        "logoUrl": "https://2016.devfesttoulouse.fr/images/partners/toulousejs.png",
+        "name": "Toulouse JS",
+        "url": "http://toulousejs.francejs.org/"
+      },
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/527945781773217792/iE8hiRS3.jpeg",
+        "name": "Toulouse DevOps",
+        "url": "http://toulousedevops.org/"
+      }
+    ],
+    "title": "Communautés impliquées"
+  },
+  {
+    "logos": [
+      {
+        "logoUrl": "https://secure.meetupstatic.com/photos/event/3/d/5/d/global_460215709.jpeg",
+        "name": "Visualisation des données",
+        "url": "https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/"
+      },
+      {
+        "logoUrl": "https://secure.meetupstatic.com/photos/event/5/c/6/a/global_449363658.jpeg",
+        "name": "Swift Toulouse",
+        "url": "https://www.meetup.com/fr-FR/Swift-Toulouse/"
+      },
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/693487622942003200/37wAwnVR_400x400.jpg",
+        "name": "PitchMeUp",
+        "url": "https://www.meetup.com/fr-FR/Pitch-Me-Up/"
+      },
+      {
+        "logoUrl": "https://secure.meetupstatic.com/photos/event/7/f/1/c/600_458372540.jpeg",
+        "name": "Software Craftsmanship",
+        "url": "https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/"
+      },
+      {
+        "logoUrl": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAtfAAAAJDgzOWU2MzAxLWY0ZTEtNDE4ZC05MWVmLTRkZTk5ZDM2NWE2Yg.png",
+        "name": "DigitalPlace",
+        "url": "http://www.digitalplace.fr/"
+      },
+      {
+        "logoUrl": "/images/partners/logo_dot_net toulouse.png",
+        "name": "Meetup DotNet Toulouse",
+        "url": "https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/"
+      }
+    ],
+    "title": "Communautés soutien"
+  }
+]

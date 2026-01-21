@@ -1,112 +1,60 @@
 <link rel="import" href="../../bower_components/polymer/polymer.html">
 <link rel="import" href="../../bower_components/iron-ajax/iron-ajax.html">
 
-<link rel="import" href="../../bower_components/app-storage/app-indexeddb-mirror/app-indexeddb-mirror.html">
-
 <dom-module id="app-data">
   <template>
+    <!-- Blog posts -->
     <iron-ajax auto url="[[postsSource]]" handle-as="json" on-response="_reversePosts"></iron-ajax>
 
-    <firebase-document
-      id="querySpeakers"
-      app-name="{$ firebase.name $}"
-      path="/speakers"
-      data="{{_firebaseSpeakersRaw}}">
-    </firebase-document>
+    <!-- Données statiques JSON (mode OVH - sans Firebase) -->
+    <iron-ajax
+      auto
+      url="/data/speakers.json"
+      handle-as="json"
+      last-response="{{_speakersRaw}}">
+    </iron-ajax>
 
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="speakers"
-      data="{{_firebaseSpeakersRaw}}"
-      persisted-data="{{_speakersRaw}}">
-    </app-indexeddb-mirror>
+    <iron-ajax
+      auto
+      url="/data/sessions.json"
+      handle-as="json"
+      last-response="{{_sessionsRaw}}">
+    </iron-ajax>
 
-    <firebase-document
-      id="querySessions"
-      app-name="{$ firebase.name $}"
-      path="/sessions"
-      data="{{_firebaseSessions}}">
-    </firebase-document>
+    <iron-ajax
+      auto
+      url="/data/schedule.json"
+      handle-as="json"
+      last-response="{{_scheduleRaw}}">
+    </iron-ajax>
 
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="sessions"
-      data="{{_firebaseSessions}}"
-      persisted-data="{{_sessionsRaw}}">
-    </app-indexeddb-mirror>
+    <iron-ajax
+      auto
+      url="/data/partners.json"
+      handle-as="json"
+      last-response="{{app.partners}}">
+    </iron-ajax>
 
-    <firebase-document
-      id="querySchedule"
-      app-name="{$ firebase.name $}"
-      path="/schedule"
-      data="{{_firebaseSchedule}}">
-    </firebase-document>
+    <iron-ajax
+      auto
+      url="/data/videos.json"
+      handle-as="json"
+      last-response="{{app.videos}}">
+    </iron-ajax>
 
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="schedule"
-      data="{{_firebaseSchedule}}"
-      persisted-data="{{_scheduleRaw}}">
-    </app-indexeddb-mirror>
+    <iron-ajax
+      auto
+      url="/data/team.json"
+      handle-as="json"
+      last-response="{{app.team}}">
+    </iron-ajax>
 
-    <firebase-query
-      id="queryPartners"
-      app-name="{$ firebase.name $}"
-      path="/partners"
-      data="{{_firebasePartners}}">
-    </firebase-query>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="partners"
-      data="{{_firebasePartners}}"
-      persisted-data="{{app.partners}}">
-    </app-indexeddb-mirror>
-
-    <!-- Save requests if we do not display videos -->
-    {% if videosSessionsUrl %}
-      <firebase-document
-        id="queryVideos"
-        app-name="{$ firebase.name $}"
-        path="/videos"
-        data="{{_firebaseVideos}}">
-      </firebase-document>
-
-      <app-indexeddb-mirror
-        session="{$ firebase.indexedDbSession $}"
-        key="videos"
-        data="{{_firebaseVideos}}"
-        persisted-data="{{app.videos}}">
-      </app-indexeddb-mirror>
-    {% endif %}
-
-    <firebase-query
-      id="queryTeam"
-      app-name="{$ firebase.name $}"
-      path="/team"
-      data="{{_firebaseTeam}}">
-    </firebase-query>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="team"
-      data="{{_firebaseTeam}}"
-      persisted-data="{{app.team}}">
-    </app-indexeddb-mirror>
-
-    <firebase-document
-      id="queryTickets"
-      app-name="{$ firebase.name $}"
-      path="/tickets"
-      data="{{_firebaseTickets}}">
-    </firebase-document>
-
-    <app-indexeddb-mirror
-      session="{$ firebase.indexedDbSession $}"
-      key="team"
-      data="{{_firebaseTickets}}"
-      persisted-data="{{app.tickets}}">
-    </app-indexeddb-mirror>
+    <iron-ajax
+      auto
+      url="/data/tickets.json"
+      handle-as="json"
+      last-response="{{app.tickets}}">
+    </iron-ajax>
 
   </template>
   <script>

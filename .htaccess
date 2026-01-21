@@ -1,0 +1,112 @@
+# ============================================
+# Configuration Apache pour DevFest Toulouse
+# Site Polymer SPA (Single Page Application)
+# ============================================
+
+# Activer le moteur de réécriture
+RewriteEngine On
+
+# -----------------------------------------
+# Forcer HTTPS (recommandé pour PWA/Service Worker)
+# -----------------------------------------
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# -----------------------------------------
+# Routage SPA (Single Page Application)
+# Redirige toutes les URLs vers index.html
+# sauf si le fichier ou dossier existe
+# -----------------------------------------
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.html [L,QSA]
+
+# -----------------------------------------
+# Clean URLs - Supprimer .html des URLs
+# -----------------------------------------
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [L]
+
+# -----------------------------------------
+# Cache des assets statiques
+# -----------------------------------------
+<IfModule mod_expires.c>
+    ExpiresActive On
+
+    # HTML - cache court (1 heure)
+    ExpiresByType text/html "access plus 1 hour"
+
+    # CSS et JavaScript - cache long (1 an)
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+
+    # Images - cache long (1 an)
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/x-icon "access plus 1 year"
+
+    # Fonts - cache long (1 an)
+    ExpiresByType application/font-woff "access plus 1 year"
+    ExpiresByType application/font-woff2 "access plus 1 year"
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+
+    # JSON - cache moyen (1 jour)
+    ExpiresByType application/json "access plus 1 day"
+</IfModule>
+
+# -----------------------------------------
+# Compression GZIP
+# -----------------------------------------
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/json
+    AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+
+# -----------------------------------------
+# Types MIME corrects
+# -----------------------------------------
+<IfModule mod_mime.c>
+    AddType application/javascript .js
+    AddType text/css .css
+    AddType application/json .json
+    AddType application/manifest+json .webmanifest
+    AddType image/svg+xml .svg
+    AddType image/webp .webp
+    AddType font/woff .woff
+    AddType font/woff2 .woff2
+</IfModule>
+
+# -----------------------------------------
+# Headers de sécurité
+# -----------------------------------------
+<IfModule mod_headers.c>
+    # Empêcher le sniffing MIME
+    Header set X-Content-Type-Options "nosniff"
+
+    # Protection contre le clickjacking
+    Header set X-Frame-Options "SAMEORIGIN"
+
+    # Protection XSS
+    Header set X-XSS-Protection "1; mode=block"
+
+    # Referrer policy
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# -----------------------------------------
+# Interdire l'accès aux fichiers sensibles
+# -----------------------------------------
+<FilesMatch "(^\.htaccess|\.git|\.env|bower\.json|package\.json|firebase\.json)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
